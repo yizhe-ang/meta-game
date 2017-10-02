@@ -1,0 +1,157 @@
+.hero-icon {
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    margin: 8px;
+
+    background: url('img/spritesheet.png') no-repeat;
+    -webkit-transition: all 0.5s;
+    /*-webkit-transition: zoom 0.5s;*/
+    position: absolute;
+    z-index: 999;
+
+    cursor: pointer;
+}
+
+.hero-icon:hover {
+    /*transform:scale(1.0)*/
+}
+
+.hero-icon.grayscale {
+    -webkit-filter: grayscale(1); /* Webkit */
+     filter: gray; /* IE6-9 */
+     filter: grayscale(1); /* W3C */
+}
+
+.hero-icon.darken {
+    -webkit-filter: brightness(10%);
+    -moz-filter: brightness(10%);
+    -o-filter: brightness(10%);
+    -ms-filter: brightness(10%);
+    filter: brightness(10%);
+}
+.hero-icon.darkish {
+    -webkit-filter: brightness(40%);
+    -moz-filter: brightness(40%);
+    -o-filter: brightness(40%);
+    -ms-filter: brightness(40%);
+    filter: brightness(40%);
+}
+
+.abaddon              { background-position: -4px -5px;    }
+/*
+.abaddon:hover { transform:scale(1.5);
+                 filter: brightness(150%); }*/
+
+.alchemist            { background-position: -47px -5px    }
+.ancient_apparition   { background-position: -89px -5px    }
+.anti-mage            { background-position: -131px -5px   }
+.arc_warden           { background-position: -5px -425px   }
+.axe                  { background-position: -171px -4px   }
+.bane                 { background-position: -212px -5px   }
+.batrider             { background-position: -254px -5px   }
+.beastmaster          { background-position: -297px -5px   }
+.bloodseeker          { background-position: -339px -5px   }
+.bounty_hunter        { background-position: -380px -5px   }
+.brewmaster           { background-position: -5px -46px    }
+.bristleback          { background-position: -47px -47px   }
+.broodmother          { background-position: -86px -47px   }
+.centaur_warrunner    { background-position: -125px -47px  }
+.chaos_knight         { background-position: -168px -47px  }
+.chen                 { background-position: -210px -47px  }
+.clinkz               { background-position: -252px -47px  }
+.clockwerk            { background-position: -294px -47px  }
+.crystal_maiden       { background-position: -336px -47px  }
+.dark_seer            { background-position: -377px -47px  }
+.dazzle               { background-position: -5px -89px    }
+.death_prophet        { background-position: -46px -89px   }
+.disruptor            { background-position: -87px -89px   }
+.doom                 { background-position: -129px -89px  }
+.dragon_knight        { background-position: -171px -89px  }
+.drow_ranger          { background-position: -213px -89px  }
+.earth_spirit         { background-position: -254px -89px  }
+.earthshaker          { background-position: -297px -90px  }
+.elder_titan          { background-position: -339px -87px  }
+.ember_spirit         { background-position: -381px -87px  }
+.enchantress          { background-position: -5px -131px   }
+.enigma               { background-position: -47px -131px  }
+.faceless_void        { background-position: -89px -129px  }
+.gyrocopter           { background-position: -131px -131px }
+.huskar               { background-position: -172px -131px }
+.invoker              { background-position: -215px -131px }
+.io                   { background-position: -258px -131px }
+.jakiro               { background-position: -299px -131px }
+.juggernaut           { background-position: -341px -131px }
+.keeper_of_the_light  { background-position: -383px -131px }
+.kunkka               { background-position: -6px -173px   }
+.legion_commander     { background-position: -47px -173px  }
+.leshrac              { background-position: -89px -173px  }
+.lich                 { background-position: -131px -173px }
+.lifestealer          { background-position: -173px -173px }
+.lina                 { background-position: -216px -173px }
+.lion                 { background-position: -256px -173px }
+.lone_druid           { background-position: -299px -173px }
+.luna                 { background-position: -341px -173px }
+.lycan                { background-position: -383px -173px }
+.magnus               { background-position: -5px -215px   }
+.medusa               { background-position: -47px -215px  }
+.meepo                { background-position: -89px -215px  }
+.mirana               { background-position: -131px -215px }
+.monkey_king          { background-position: -89px -425px  }
+.morphling            { background-position: -173px -215px }
+.naga_siren           { background-position: -215px -215px }
+.natures_prophet      { background-position: -257px -215px }
+.necrophos            { background-position: -298px -215px }
+.night_stalker        { background-position: -341px -215px }
+.nyx_assassin         { background-position: -383px -215px }
+.ogre_magi            { background-position: -5px -257px   }
+.omniknight           { background-position: -47px -257px  }
+.oracle               { background-position: -89px -257px  }
+.outworld_devourer    { background-position: -131px -257px }
+.phantom_assassin     { background-position: -173px -257px }
+.phantom_lancer       { background-position: -215px -257px }
+.phoenix              { background-position: -258px -257px }
+.puck                 { background-position: -299px -256px }
+.pudge                { background-position: -341px -257px }
+.pugna                { background-position: -383px -257px }
+.queen_of_pain        { background-position: -6px -299px   }
+.razor                { background-position: -48px -299px  }
+.riki                 { background-position: -89px -299px  }
+.rubick               { background-position: -131px -299px }
+.sand_king            { background-position: -173px -299px }
+.shadow_demon         { background-position: -216px -299px }
+.shadow_fiend         { background-position: -258px -299px }
+.shadow_shaman        { background-position: -299px -299px }
+.silencer             { background-position: -342px -299px }
+.skywrath_mage        { background-position: -384px -299px }
+.slardar              { background-position: -5px -341px   }
+.slark                { background-position: -47px -341px  }
+.sniper               { background-position: -89px -341px  }
+.spectre              { background-position: -131px -341px }
+.spirit_breaker       { background-position: -173px -341px }
+.storm_spirit         { background-position: -215px -341px }
+.sven                 { background-position: -257px -341px }
+.techies              { background-position: -298px -341px }
+.templar_assassin     { background-position: -340px -341px }
+.terrorblade          { background-position: -381px -341px }
+.tidehunter           { background-position: -5px -383px   }
+.timbersaw            { background-position: -47px -383px  }
+.tinker               { background-position: -90px -383px  }
+.tiny                 { background-position: -132px -383px }
+.treant_protector     { background-position: -173px -383px }
+.troll_warlord        { background-position: -215px -383px }
+.tusk                 { background-position: -257px -383px }
+.underlord            { background-position: -47px -425px  }
+.undying              { background-position: -298px -383px }
+.ursa                 { background-position: -341px -383px }
+.vengeful_spirit      { background-position: -383px -383px }
+.venomancer           { background-position: -423px -5px   }
+.viper                { background-position: -421px -47px  }
+.visage               { background-position: -424px -89px  }
+.warlock              { background-position: -425px -131px }
+.weaver               { background-position: -425px -173px }
+.windranger           { background-position: -426px -215px }
+.winter_wyvern        { background-position: -425px -257px }
+.witch_doctor         { background-position: -425px -299px }
+.wraith_king          { background-position: -424px -341px }
+.zeus                 { background-position: -425px -383px }

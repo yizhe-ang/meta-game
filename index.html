@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<meta charset='utf-8' />
+<title>the Metagame</title>
+<link rel='stylesheet' href='style.css' media='screen' />
+<link rel='stylesheet' href='icons.css' media='screen' />
+<!-- fonts -->
+<link href="https://fonts.googleapis.com/css?family=Press+Start+2P|Monda:400,700|Inconsolata:400,700|Roboto+Mono:400,700|Roboto|Lato|Source+Sans+Pro:400,700|Mada:400,700" rel="stylesheet">
+<!-- BODY STARTS HERE -->
+<body onload='m.load()'>
+    <!-- essay toggle button -->
+    <input type='checkbox' id='essay-button' name='essay-button'  />
+    <label for='essay-button'>
+        <div>></div>
+    </label>
+
+    <div id='container-header'>
+        <!-- HEADER STARTS HERE -->
+        <div id='header'>
+            <h1><em>the</em> METAGAME</h1>
+            <h2>figuring out what Icefrog is up to</h2>
+        </div>
+    </div>
+    <div id='container-master'>
+
+        <!-- EVENTS START HERE -->
+        <div id='container-events'>
+        </div>
+
+        <!-- INFOBOX STARTS HERE -->
+        <div id='infobox'>
+            <p id='event-title'></p>
+            <!-- sort toggle button -->
+            <input type='checkbox' id='sort-button' name='sort-button'  />
+            <label for='sort-button'>
+                <div>sort</div>
+            </label>
+            <!-- view toggle button -->
+            <input type='checkbox' id='view-button' name='view-button'  />
+            <label for='view-button'>
+                <div>view</div>
+            </label>
+            <!-- infobox toggle button -->
+            <input type='checkbox' id='infobox-button' name='infobox-button'  />
+            <label for='infobox-button'>
+                <div>+</div>
+            </label>
+            <!-- Heroes Picked/Banned % -->
+            <!-- <p id='event-stat'><em>85.3%</em> P/B</p> -->
+            <div id='event-bar'>
+                <p id='stat-4'>
+                    Heroes Picked/Banned <em>88.8%</em>
+                </p>
+            </div>
+            <div id='infobox-stats'>
+                <div class='hero-stats'>
+                    <p id='hero-name'></p>
+                    <p>Pick/Ban Rate</p>
+                    <p id='stat-1'>88.8%</p>
+                </div>
+                <div class='hero-table'>
+                    <div><p>Games</p><p id='stat-5'><span>110</span>/<span>113</span></p></div>
+                    <div><p>Pick Rate</p><p id='stat-2'>20.0%</p></div>
+                    <div><p>Ban Rate</p><p id='stat-3'>6.0%</p></div>
+                </div>
+
+                <div id='hero-chart'></div>
+
+            </div>
+            <!-- <div id='infobox-event'>
+                <p>Heroes P/B</p>
+                <p id='stat-4'>88.8%</p>
+            </div> -->
+        </div>
+
+        <!-- CHART STARTS HERE -->
+        <div id='chart'>
+        </div>
+
+
+
+
+
+    </div>
+
+    <!-- ESSAY STARTS HERE -->
+    <div id='container-essay'>
+    <div id='container-scroll'>
+        <p class='prose'>
+            It’s a popular sentiment that the Dota 2 metagame, at least for professional games, is the most balanced as it has ever been.
+            In the recent <span class='highlight'>International 2017, 96.4%</span> of all available heroes have been picked or banned, leaving out only 4 heroes from the hero pool of 112.
+        </p>
+        <!-- <p class='prose'>
+            We’ve had a fair assortment of broken metas, with overpowered heroes infesting pubs and even the pro scene,
+            compelling divine intervention from the almighty amphibian himself. But even IceFrog cannot wholly envision how his creations will run wild.
+            Balancing a complex game such as Dota 2 is definitely a delicate task.
+        </p> -->
+        <p class='prose'>
+            How has the metagame developed over the years?
+            With data courtesy of <a class='link' href='https://www.datdota.com/'>datdota.com</a>, this visualization attempts to explore the trends of pick and ban rates
+            of individual heroes, and the overall state of the metagame over the span of Valve Events.
+
+        </p>
+        <p class='prose' style='color:#9E9E9E;font-size:14px;line-height:22px'>
+            <span style='font-weight:700'>How to read the visualization:</span> <br />
+            The bigger the hero icon, the higher its pick/ban rate. <br  />
+            Heroes that have not been picked out banned throughout the event are blacked out, and heroes that have not been
+            released or missing in captain's mode are not displayed.
+        </p>
+        <div class='essay-header'>
+                OVERALL TREND
+        </div>
+
+        <div id='chart-overalltrend' class='essay-chart'></div>
+        <p class='prose'>
+            For the bulk of the events, the proportion of heroes picked or banned hovers well above 80%. We experienced the most inclusive metagame during the recent
+            International 2017, with <span style='color:#64FFDA;font-weight:700'>96.4%</span> of heroes picked/banned, leaving behind only 4 heroes. On the other hand, the Frankfurt Major in 2015 left out a total of
+            22 heroes (out of 107).
+        </p>
+        <p class='prose'>
+            It's clear that our previous two International events enjoyed the greatest participation of heroes. This could be due to the fact that the metagame typically stabilises in the patches leading up to the event, or simply a result of the larger number of games played as compared to the majors.
+        </p>
+        <p class='prose'>
+            Are we able to take a closer look at the individual participation rate of heroes? Do only a select few heroes dominate the entire tournament, or are most heroes able to get a fair representation in the spotlight?
+        </p>
+        <p class='prose'>
+            <audio id="player" src="https://hydra-media.cursecdn.com/dota2.gamepedia.com/8/88/Embr_move_02.mp3"></audio>
+            In Dota utopia, there <a style='cursor:pointer' onclick="document.getElementById('player').play()">is balance in all things</a>. What would such a place look like?
+            Broadly speaking, a balanced metagame should promote an equal representation of each and every dota hero in a tournament.
+            Using some simple math - with 20 pick/ban slots per game, and assuming
+            a hero pool of 113, the <span class='highlight'>'ideal' pick/ban rate of every hero would be 20/113 = 18%</span>.
+        </p>
+        <p class='prose'>
+            To peek at another perspective of the data, we can examine the overall distribution of the pick/ban rates.
+        </p>
+        <p class='prose' style='color:#9E9E9E;font-size:14px;line-height:22px'>
+            Clicking on the <span style='font-weight:700;font-style:italic'>view</span>
+            button in the visualization will yield the distribution of pick/ban rates of heroes, arranged in columns of 2.5% intervals.
+            </br>
+            Heroes towards the left-side of the chart are deemed more popular in the event.
+        </p>
+
+        <div class='essay-header'>
+            WHAT DOES BALANCE LOOK LIKE?
+        </div>
+        <p class='prose'>
+            One thing that is immediately apparent is the clustering of heroes to the right side of the chart. To be expected, in every event, there is only a handful of to-go heroes thriving in the current meta,
+            while the rest are mediocre at best.
+
+            <span class='highlight'>In a typical Valve Event, 30.3% of all heroes is only picked or banned in 0% - 2.5% of games</span>
+            (which is up to 4 games for Internationals and 2 games for Majors).
+        </p>
+        <p class='prose'>
+            Cycling through the events chronologically, the changes are subtle, but more recent events appear to have lower peaks, and the heroes are distributed
+            more evenly.
+        </p>
+        <p class='prose'>
+            With the distribution at hand, I would like to argue that the International 2017 could very well be the most balanced Valve Event to date.
+        </p>
+        <div id='chart-median' class='essay-chart'></div>
+        <p class='prose'>
+            Encapsulating each distribution with a single value, the median (the middle-most value of all the pick/ban rates), it is evident that the value for the
+            <span style='color:#64FFDA;font-weight:700'>International 2017, 12.8%,</span>
+            towers well above the rest of the events - possibly indicating that it has the most even representation of heroes to date.
+        </p>
+        <p class='prose'>
+            Out of all events, <span style='color:#64FFDA;font-weight:700'>the International 2017 also has the lowest percentage of heroes (13.4%)</span> in the 0 - 2.5% bracket.
+        </p>
+        <p class='prose'>
+            Does this signify a turning point? A trend of more inclusive metagames to come? This could mean one of two things -
+            either IceFrog is getting better at his job, or professional players are becoming more open to the
+            experimentation of overlooked heroes, and incorporating them into their strategies - or both.
+        </p>
+        <p class='prose'>
+            Either way, this could only mean more diversity and entertaining games for avid Dota viewers.
+        </p>
+        <!-- <p class='essay-header'>
+            Broken beyond repair
+        </p>
+        <p class='essay-header'>
+            Notice me, IceFrog
+        </p> -->
+        <div id='closing-line'>
+        </div>
+        <div id='closing'>
+            <p class='prose' style='color:#9E9E9E;font-size:14px;line-height:22px'>
+                All the data in the visualization is taken from datdota.com. </br>
+                The data comes from draft summaries of each Valve Event, namely the number of bans and picks for each hero, and the total number of games in each event. The drafting data includes both games from the Group Stage and the Main Event.
+            </p>
+            <a class='link--home' href='https://lemonwaffle.github.io/'>
+                <img src='img/home.png' />
+            </a>
+        </div>
+
+    </div>
+    </div>
+
+    <!-- JAVASCRIPT FILES -->
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src='js/main.js'></script>
+    <script src='js/core.js'></script>
+    <script src='js/chart.js'></script>
+    <script src='js/ui.js'></script>
+    <script src='js/infobox.js'></script>
+    <script src='js/essay.js'></script>
+</body>

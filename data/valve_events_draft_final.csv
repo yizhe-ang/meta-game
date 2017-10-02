@@ -1,0 +1,1131 @@
+ban_rate,event,hero,no_bans,no_picks,no_picks_bans,pick_ban_rate,pick_rate,win_rate,attribute
+58.33%,The Boston Major 2016,Batrider,49,26,75,89.29%,30.95%,57.69%,Intelligence
+36.90%,The Boston Major 2016,Shadow Demon,31,33,64,76.19%,39.29%,51.52%,Intelligence
+28.57%,The Boston Major 2016,Ogre Magi,24,40,64,76.19%,47.62%,42.50%,Intelligence
+50.00%,The Boston Major 2016,Alchemist,42,18,60,71.43%,21.43%,77.78%,Strength
+45.24%,The Boston Major 2016,Drow Ranger,38,19,57,67.86%,22.62%,52.63%,Agility
+40.48%,The Boston Major 2016,Timbersaw,34,23,57,67.86%,27.38%,60.87%,Strength
+41.67%,The Boston Major 2016,Outworld Devourer,35,19,54,64.29%,22.62%,63.16%,Intelligence
+15.48%,The Boston Major 2016,Rubick,13,41,54,64.29%,48.81%,56.10%,Intelligence
+35.71%,The Boston Major 2016,Slardar,30,22,52,61.90%,26.19%,59.09%,Strength
+25.00%,The Boston Major 2016,Sand King,21,28,49,58.33%,33.33%,46.43%,Strength
+27.38%,The Boston Major 2016,Juggernaut,23,24,47,55.95%,28.57%,45.83%,Agility
+17.86%,The Boston Major 2016,Mirana,15,28,43,51.19%,33.33%,60.71%,Agility
+10.71%,The Boston Major 2016,Luna,9,34,43,51.19%,40.48%,61.76%,Agility
+32.14%,The Boston Major 2016,Dark Seer,27,16,43,51.19%,19.05%,43.75%,Intelligence
+26.19%,The Boston Major 2016,Warlock,22,20,42,50.00%,23.81%,60.00%,Intelligence
+21.43%,The Boston Major 2016,Lifestealer,18,22,40,47.62%,26.19%,45.45%,Strength
+30.95%,The Boston Major 2016,Io,26,14,40,47.62%,16.67%,71.43%,Strength
+21.43%,The Boston Major 2016,Nyx Assassin,18,20,38,45.24%,23.81%,55.00%,Agility
+36.90%,The Boston Major 2016,Naga Siren,31,6,37,44.05%,7.14%,83.33%,Agility
+27.38%,The Boston Major 2016,Sniper,23,11,34,40.48%,13.10%,36.36%,Agility
+10.71%,The Boston Major 2016,Dragon Knight,9,19,28,33.33%,22.62%,52.63%,Strength
+16.67%,The Boston Major 2016,Omniknight,14,14,28,33.33%,16.67%,64.29%,Strength
+9.52%,The Boston Major 2016,Weaver,8,20,28,33.33%,23.81%,35.00%,Agility
+9.52%,The Boston Major 2016,Clockwerk,8,18,26,30.95%,21.43%,38.89%,Strength
+21.43%,The Boston Major 2016,Keeper of the Light,18,8,26,30.95%,9.52%,50.00%,Intelligence
+16.67%,The Boston Major 2016,Ursa,14,10,24,28.57%,11.90%,20.00%,Agility
+15.48%,The Boston Major 2016,Invoker,13,11,24,28.57%,13.10%,45.45%,Intelligence
+14.29%,The Boston Major 2016,Slark,12,11,23,27.38%,13.10%,36.36%,Agility
+15.48%,The Boston Major 2016,Bounty Hunter,13,9,22,26.19%,10.71%,55.56%,Agility
+21.43%,The Boston Major 2016,Storm Spirit,18,3,21,25.00%,3.57%,33.33%,Intelligence
+14.29%,The Boston Major 2016,Axe,12,7,19,22.62%,8.33%,71.43%,Strength
+7.14%,The Boston Major 2016,Legion Commander,6,12,18,21.43%,14.29%,83.33%,Strength
+8.33%,The Boston Major 2016,Undying,7,10,17,20.24%,11.90%,30.00%,Strength
+8.33%,The Boston Major 2016,Morphling,7,9,16,19.05%,10.71%,66.67%,Agility
+5.95%,The Boston Major 2016,Earth Spirit,5,11,16,19.05%,13.10%,45.45%,Strength
+13.10%,The Boston Major 2016,Faceless Void,11,4,15,17.86%,4.76%,50.00%,Agility
+4.76%,The Boston Major 2016,Disruptor,4,11,15,17.86%,13.10%,54.55%,Intelligence
+8.33%,The Boston Major 2016,Puck,7,7,14,16.67%,8.33%,57.14%,Intelligence
+11.90%,The Boston Major 2016,Chen,10,4,14,16.67%,4.76%,50.00%,Intelligence
+8.33%,The Boston Major 2016,Silencer,7,6,13,15.48%,7.14%,50.00%,Intelligence
+9.52%,The Boston Major 2016,Anti-Mage,8,4,12,14.29%,4.76%,25.00%,Agility
+11.90%,The Boston Major 2016,Razor,10,2,12,14.29%,2.38%,0.00%,Agility
+11.90%,The Boston Major 2016,Tinker,10,2,12,14.29%,2.38%,0.00%,Intelligence
+4.76%,The Boston Major 2016,Phantom Assassin,4,8,12,14.29%,9.52%,50.00%,Agility
+9.52%,The Boston Major 2016,Venomancer,8,3,11,13.10%,3.57%,33.33%,Agility
+8.33%,The Boston Major 2016,Enigma,7,3,10,11.90%,3.57%,33.33%,Intelligence
+7.14%,The Boston Major 2016,Pugna,6,4,10,11.90%,4.76%,50.00%,Intelligence
+4.76%,The Boston Major 2016,Templar Assassin,4,6,10,11.90%,7.14%,66.67%,Agility
+3.57%,The Boston Major 2016,Dazzle,3,7,10,11.90%,8.33%,57.14%,Intelligence
+1.19%,The Boston Major 2016,Leshrac,1,9,10,11.90%,10.71%,33.33%,Intelligence
+3.57%,The Boston Major 2016,Elder Titan,3,7,10,11.90%,8.33%,14.29%,Strength
+3.57%,The Boston Major 2016,Sven,3,5,8,9.52%,5.95%,20.00%,Strength
+2.38%,The Boston Major 2016,Witch Doctor,2,6,8,9.52%,7.14%,16.67%,Intelligence
+3.57%,The Boston Major 2016,Beastmaster,3,5,8,9.52%,5.95%,20.00%,Strength
+1.19%,The Boston Major 2016,Treant Protector,1,7,8,9.52%,8.33%,71.43%,Strength
+3.57%,The Boston Major 2016,Medusa,3,4,7,8.33%,4.76%,25.00%,Agility
+2.38%,The Boston Major 2016,Terrorblade,2,5,7,8.33%,5.95%,40.00%,Agility
+2.38%,The Boston Major 2016,Pudge,2,4,6,7.14%,4.76%,25.00%,Strength
+3.57%,The Boston Major 2016,Enchantress,3,3,6,7.14%,3.57%,33.33%,Intelligence
+2.38%,The Boston Major 2016,Jakiro,2,4,6,7.14%,4.76%,25.00%,Intelligence
+2.38%,The Boston Major 2016,Spirit Breaker,2,4,6,7.14%,4.76%,50.00%,Strength
+0.00%,The Boston Major 2016,Oracle,0,6,6,7.14%,7.14%,33.33%,Intelligence
+1.19%,The Boston Major 2016,Shadow Fiend,1,4,5,5.95%,4.76%,50.00%,Agility
+1.19%,The Boston Major 2016,Vengeful Spirit,1,4,5,5.95%,4.76%,0.00%,Agility
+3.57%,The Boston Major 2016,Riki,3,2,5,5.95%,2.38%,50.00%,Agility
+0.00%,The Boston Major 2016,Earthshaker,0,4,4,4.76%,4.76%,100.00%,Strength
+2.38%,The Boston Major 2016,Kunkka,2,2,4,4.76%,2.38%,50.00%,Strength
+1.19%,The Boston Major 2016,Tidehunter,1,3,4,4.76%,3.57%,33.33%,Strength
+1.19%,The Boston Major 2016,Ancient Apparition,1,3,4,4.76%,3.57%,33.33%,Intelligence
+1.19%,The Boston Major 2016,Centaur Warrunner,1,3,4,4.76%,3.57%,33.33%,Strength
+1.19%,The Boston Major 2016,Bristleback,1,3,4,4.76%,3.57%,0.00%,Strength
+1.19%,The Boston Major 2016,Abaddon,1,3,4,4.76%,3.57%,33.33%,Strength
+1.19%,The Boston Major 2016,Winter Wyvern,1,3,4,4.76%,3.57%,33.33%,Intelligence
+0.00%,The Boston Major 2016,Windranger,0,3,3,3.57%,3.57%,33.33%,Intelligence
+1.19%,The Boston Major 2016,Lion,1,2,3,3.57%,2.38%,50.00%,Intelligence
+0.00%,The Boston Major 2016,Queen of Pain,0,3,3,3.57%,3.57%,33.33%,Intelligence
+0.00%,The Boston Major 2016,Night Stalker,0,3,3,3.57%,3.57%,33.33%,Strength
+1.19%,The Boston Major 2016,Magnus,1,2,3,3.57%,2.38%,50.00%,Strength
+0.00%,The Boston Major 2016,Bane,0,2,2,2.38%,2.38%,50.00%,Intelligence
+0.00%,The Boston Major 2016,Bloodseeker,0,2,2,2.38%,2.38%,50.00%,Agility
+1.19%,The Boston Major 2016,Natures Prophet,1,1,2,2.38%,1.19%,0.00%,Intelligence
+0.00%,The Boston Major 2016,Clinkz,0,2,2,2.38%,2.38%,50.00%,Agility
+0.00%,The Boston Major 2016,Doom,0,2,2,2.38%,2.38%,0.00%,Strength
+0.00%,The Boston Major 2016,Lycan,0,2,2,2.38%,2.38%,50.00%,Strength
+0.00%,The Boston Major 2016,Brewmaster,0,2,2,2.38%,2.38%,50.00%,Strength
+1.19%,The Boston Major 2016,Ember Spirit,1,1,2,2.38%,1.19%,100.00%,Agility
+0.00%,The Boston Major 2016,Lina,0,1,1,1.19%,1.19%,100.00%,Intelligence
+0.00%,The Boston Major 2016,Shadow Shaman,0,1,1,1.19%,1.19%,0.00%,Intelligence
+1.19%,The Boston Major 2016,Death Prophet,1,0,1,1.19%,0.00%,0.00%,Intelligence
+1.19%,The Boston Major 2016,Viper,1,0,1,1.19%,0.00%,0.00%,Agility
+1.19%,The Boston Major 2016,Huskar,1,0,1,1.19%,0.00%,0.00%,Strength
+1.19%,The Boston Major 2016,Meepo,1,0,1,1.19%,0.00%,0.00%,Agility
+0.00%,The Boston Major 2016,Visage,0,1,1,1.19%,1.19%,0.00%,Intelligence
+,The Boston Major 2016,Monkey King,,,,,,,Agility
+,The Boston Major 2016,Underlord,,,,,,,Strength
+,The Boston Major 2016,Arc Warden,,,,,,,Agility
+0,The Boston Major 2016,Chaos Knight,0,0,0,0,0,0,Strength
+0,The Boston Major 2016,Phoenix,0,0,0,0,0,0,Strength
+0,The Boston Major 2016,Tiny,0,0,0,0,0,0,Strength
+0,The Boston Major 2016,Tusk,0,0,0,0,0,0,Strength
+0,The Boston Major 2016,Wraith King,0,0,0,0,0,0,Strength
+0,The Boston Major 2016,Broodmother,0,0,0,0,0,0,Agility
+0,The Boston Major 2016,Gyrocopter,0,0,0,0,0,0,Agility
+0,The Boston Major 2016,Lone Druid,0,0,0,0,0,0,Agility
+0,The Boston Major 2016,Phantom Lancer,0,0,0,0,0,0,Agility
+0,The Boston Major 2016,Spectre,0,0,0,0,0,0,Agility
+0,The Boston Major 2016,Troll Warlord,0,0,0,0,0,0,Agility
+0,The Boston Major 2016,Crystal Maiden,0,0,0,0,0,0,Intelligence
+0,The Boston Major 2016,Lich,0,0,0,0,0,0,Intelligence
+0,The Boston Major 2016,Necrophos,0,0,0,0,0,0,Intelligence
+0,The Boston Major 2016,Skywrath Mage,0,0,0,0,0,0,Intelligence
+0,The Boston Major 2016,Techies,0,0,0,0,0,0,Intelligence
+0,The Boston Major 2016,Zeus,0,0,0,0,0,0,Intelligence
+42.42%,The Frankfurt Major 2015,Tusk,42,56,98,98.99%,56.57%,50.00%,Strength
+57.58%,The Frankfurt Major 2015,Shadow Fiend,57,37,94,94.95%,37.37%,56.76%,Agility
+72.73%,The Frankfurt Major 2015,Doom,72,21,93,93.94%,21.21%,47.62%,Strength
+36.36%,The Frankfurt Major 2015,Winter Wyvern,36,49,85,85.86%,49.49%,55.10%,Intelligence
+48.48%,The Frankfurt Major 2015,Queen of Pain,48,35,83,83.84%,35.35%,42.86%,Intelligence
+49.49%,The Frankfurt Major 2015,Dark Seer,49,32,81,81.82%,32.32%,50.00%,Intelligence
+35.35%,The Frankfurt Major 2015,Gyrocopter,35,45,80,80.81%,45.45%,42.22%,Agility
+39.39%,The Frankfurt Major 2015,Slardar,39,38,77,77.78%,38.38%,52.63%,Strength
+30.30%,The Frankfurt Major 2015,Dazzle,30,43,73,73.74%,43.43%,53.49%,Intelligence
+42.42%,The Frankfurt Major 2015,Undying,42,30,72,72.73%,30.30%,60.00%,Strength
+35.35%,The Frankfurt Major 2015,Ember Spirit,35,28,63,63.64%,28.28%,53.57%,Agility
+33.33%,The Frankfurt Major 2015,Ancient Apparition,33,26,59,59.60%,26.26%,53.85%,Intelligence
+25.25%,The Frankfurt Major 2015,Bane,25,33,58,58.59%,33.33%,51.52%,Intelligence
+21.21%,The Frankfurt Major 2015,Windranger,21,32,53,53.54%,32.32%,34.38%,Intelligence
+25.25%,The Frankfurt Major 2015,Night Stalker,25,28,53,53.54%,28.28%,39.29%,Strength
+39.39%,The Frankfurt Major 2015,Broodmother,39,8,47,47.47%,8.08%,50.00%,Agility
+31.31%,The Frankfurt Major 2015,Io,31,13,44,44.44%,13.13%,46.15%,Strength
+28.28%,The Frankfurt Major 2015,Juggernaut,28,13,41,41.41%,13.13%,46.15%,Agility
+17.17%,The Frankfurt Major 2015,Lina,17,24,41,41.41%,24.24%,33.33%,Intelligence
+17.17%,The Frankfurt Major 2015,Spirit Breaker,17,21,38,38.38%,21.21%,42.86%,Strength
+28.28%,The Frankfurt Major 2015,Huskar,28,9,37,37.37%,9.09%,66.67%,Strength
+7.07%,The Frankfurt Major 2015,Earthshaker,7,28,35,35.35%,28.28%,60.71%,Strength
+16.16%,The Frankfurt Major 2015,Templar Assassin,16,16,32,32.32%,16.16%,56.25%,Agility
+14.14%,The Frankfurt Major 2015,Clockwerk,14,18,32,32.32%,18.18%,38.89%,Strength
+16.16%,The Frankfurt Major 2015,Anti-Mage,16,11,27,27.27%,11.11%,54.55%,Agility
+3.03%,The Frankfurt Major 2015,Tiny,3,24,27,27.27%,24.24%,50.00%,Strength
+13.13%,The Frankfurt Major 2015,Beastmaster,13,14,27,27.27%,14.14%,42.86%,Strength
+16.16%,The Frankfurt Major 2015,Viper,16,11,27,27.27%,11.11%,45.45%,Agility
+10.10%,The Frankfurt Major 2015,Alchemist,10,15,25,25.25%,15.15%,60.00%,Strength
+11.11%,The Frankfurt Major 2015,Bounty Hunter,11,12,23,23.23%,12.12%,75.00%,Agility
+11.11%,The Frankfurt Major 2015,Phantom Lancer,11,11,22,22.22%,11.11%,72.73%,Agility
+8.08%,The Frankfurt Major 2015,Visage,8,14,22,22.22%,14.14%,57.14%,Intelligence
+10.10%,The Frankfurt Major 2015,Lich,10,11,21,21.21%,11.11%,45.45%,Intelligence
+9.09%,The Frankfurt Major 2015,Disruptor,9,11,20,20.20%,11.11%,27.27%,Intelligence
+3.03%,The Frankfurt Major 2015,Rubick,3,14,17,17.17%,14.14%,57.14%,Intelligence
+10.10%,The Frankfurt Major 2015,Bristleback,10,6,16,16.16%,6.06%,50.00%,Strength
+6.06%,The Frankfurt Major 2015,Dragon Knight,6,8,14,14.14%,8.08%,87.50%,Strength
+6.06%,The Frankfurt Major 2015,Razor,6,7,13,13.13%,7.07%,71.43%,Agility
+3.03%,The Frankfurt Major 2015,Vengeful Spirit,3,9,12,12.12%,9.09%,33.33%,Agility
+4.04%,The Frankfurt Major 2015,Shadow Shaman,4,8,12,12.12%,8.08%,62.50%,Intelligence
+10.10%,The Frankfurt Major 2015,Meepo,10,2,12,12.12%,2.02%,100.00%,Agility
+5.05%,The Frankfurt Major 2015,Nyx Assassin,5,7,12,12.12%,7.07%,57.14%,Agility
+4.04%,The Frankfurt Major 2015,Invoker,4,5,9,9.09%,5.05%,40.00%,Intelligence
+1.01%,The Frankfurt Major 2015,Witch Doctor,1,7,8,8.08%,7.07%,57.14%,Intelligence
+6.06%,The Frankfurt Major 2015,Lycan,6,2,8,8.08%,2.02%,0.00%,Strength
+4.04%,The Frankfurt Major 2015,Brewmaster,4,4,8,8.08%,4.04%,25.00%,Strength
+2.02%,The Frankfurt Major 2015,Magnus,2,6,8,8.08%,6.06%,50.00%,Strength
+1.01%,The Frankfurt Major 2015,Timbersaw,1,7,8,8.08%,7.07%,57.14%,Strength
+2.02%,The Frankfurt Major 2015,Drow Ranger,2,5,7,7.07%,5.05%,60.00%,Agility
+3.03%,The Frankfurt Major 2015,Sven,3,4,7,7.07%,4.04%,25.00%,Strength
+1.01%,The Frankfurt Major 2015,Lion,1,6,7,7.07%,6.06%,0.00%,Intelligence
+4.04%,The Frankfurt Major 2015,Slark,4,3,7,7.07%,3.03%,0.00%,Agility
+1.01%,The Frankfurt Major 2015,Tidehunter,1,4,5,5.05%,4.04%,75.00%,Strength
+3.03%,The Frankfurt Major 2015,Natures Prophet,3,2,5,5.05%,2.02%,0.00%,Intelligence
+1.01%,The Frankfurt Major 2015,Spectre,1,4,5,5.05%,4.04%,25.00%,Agility
+1.01%,The Frankfurt Major 2015,Skywrath Mage,1,4,5,5.05%,4.04%,25.00%,Intelligence
+1.01%,The Frankfurt Major 2015,Wraith King,1,3,4,4.04%,3.03%,66.67%,Strength
+0.00%,The Frankfurt Major 2015,Luna,0,4,4,4.04%,4.04%,50.00%,Agility
+0.00%,The Frankfurt Major 2015,Leshrac,0,4,4,4.04%,4.04%,50.00%,Intelligence
+2.02%,The Frankfurt Major 2015,Silencer,2,2,4,4.04%,2.02%,0.00%,Intelligence
+0.00%,The Frankfurt Major 2015,Treant Protector,0,4,4,4.04%,4.04%,50.00%,Strength
+1.01%,The Frankfurt Major 2015,Venomancer,1,2,3,3.03%,2.02%,0.00%,Agility
+3.03%,The Frankfurt Major 2015,Clinkz,3,0,3,3.03%,0.00%,0.00%,Agility
+2.02%,The Frankfurt Major 2015,Jakiro,2,1,3,3.03%,1.01%,0.00%,Intelligence
+0.00%,The Frankfurt Major 2015,Batrider,0,3,3,3.03%,3.03%,0.00%,Intelligence
+2.02%,The Frankfurt Major 2015,Chen,2,1,3,3.03%,1.01%,100.00%,Intelligence
+0.00%,The Frankfurt Major 2015,Shadow Demon,0,3,3,3.03%,3.03%,0.00%,Intelligence
+1.01%,The Frankfurt Major 2015,Abaddon,1,2,3,3.03%,2.02%,100.00%,Strength
+2.02%,The Frankfurt Major 2015,Phoenix,2,1,3,3.03%,1.01%,0.00%,Strength
+0.00%,The Frankfurt Major 2015,Axe,0,2,2,2.02%,2.02%,0.00%,Strength
+0.00%,The Frankfurt Major 2015,Crystal Maiden,0,2,2,2.02%,2.02%,50.00%,Intelligence
+1.01%,The Frankfurt Major 2015,Morphling,1,1,2,2.02%,1.01%,100.00%,Agility
+0.00%,The Frankfurt Major 2015,Death Prophet,0,2,2,2.02%,2.02%,50.00%,Intelligence
+0.00%,The Frankfurt Major 2015,Weaver,0,2,2,2.02%,2.02%,0.00%,Agility
+0.00%,The Frankfurt Major 2015,Sand King,0,1,1,1.01%,1.01%,0.00%,Strength
+0.00%,The Frankfurt Major 2015,Storm Spirit,0,1,1,1.01%,1.01%,100.00%,Intelligence
+0.00%,The Frankfurt Major 2015,Tinker,0,1,1,1.01%,1.01%,0.00%,Intelligence
+0.00%,The Frankfurt Major 2015,Pugna,0,1,1,1.01%,1.01%,100.00%,Intelligence
+0.00%,The Frankfurt Major 2015,Lifestealer,0,1,1,1.01%,1.01%,0.00%,Strength
+0.00%,The Frankfurt Major 2015,Ursa,0,1,1,1.01%,1.01%,0.00%,Agility
+1.01%,The Frankfurt Major 2015,Lone Druid,1,0,1,1.01%,0.00%,0.00%,Agility
+0.00%,The Frankfurt Major 2015,Chaos Knight,0,1,1,1.01%,1.01%,0.00%,Strength
+0.00%,The Frankfurt Major 2015,Ogre Magi,0,1,1,1.01%,1.01%,0.00%,Intelligence
+0.00%,The Frankfurt Major 2015,Naga Siren,0,1,1,1.01%,1.01%,0.00%,Agility
+0.00%,The Frankfurt Major 2015,Medusa,0,1,1,1.01%,1.01%,100.00%,Agility
+,The Frankfurt Major 2015,Monkey King,,,,,,,Agility
+,The Frankfurt Major 2015,Underlord,,,,,,,Strength
+,The Frankfurt Major 2015,Arc Warden,,,,,,,Agility
+,The Frankfurt Major 2015,Earth Spirit,,,,,,,Strength
+,The Frankfurt Major 2015,Terrorblade,,,,,,,Agility
+,The Frankfurt Major 2015,Oracle,,,,,,,Intelligence
+0,The Frankfurt Major 2015,Centaur Warrunner,0,0,0,0,0,0,Strength
+0,The Frankfurt Major 2015,Elder Titan,0,0,0,0,0,0,Strength
+0,The Frankfurt Major 2015,Kunkka,0,0,0,0,0,0,Strength
+0,The Frankfurt Major 2015,Legion Commander,0,0,0,0,0,0,Strength
+0,The Frankfurt Major 2015,Omniknight,0,0,0,0,0,0,Strength
+0,The Frankfurt Major 2015,Pudge,0,0,0,0,0,0,Strength
+0,The Frankfurt Major 2015,Bloodseeker,0,0,0,0,0,0,Agility
+0,The Frankfurt Major 2015,Faceless Void,0,0,0,0,0,0,Agility
+0,The Frankfurt Major 2015,Mirana,0,0,0,0,0,0,Agility
+0,The Frankfurt Major 2015,Phantom Assassin,0,0,0,0,0,0,Agility
+0,The Frankfurt Major 2015,Riki,0,0,0,0,0,0,Agility
+0,The Frankfurt Major 2015,Sniper,0,0,0,0,0,0,Agility
+0,The Frankfurt Major 2015,Troll Warlord,0,0,0,0,0,0,Agility
+0,The Frankfurt Major 2015,Enchantress,0,0,0,0,0,0,Intelligence
+0,The Frankfurt Major 2015,Enigma,0,0,0,0,0,0,Intelligence
+0,The Frankfurt Major 2015,Keeper of the Light,0,0,0,0,0,0,Intelligence
+0,The Frankfurt Major 2015,Necrophos,0,0,0,0,0,0,Intelligence
+0,The Frankfurt Major 2015,Outworld Devourer,0,0,0,0,0,0,Intelligence
+0,The Frankfurt Major 2015,Puck,0,0,0,0,0,0,Intelligence
+0,The Frankfurt Major 2015,Techies,0,0,0,0,0,0,Intelligence
+0,The Frankfurt Major 2015,Warlock,0,0,0,0,0,0,Intelligence
+0,The Frankfurt Major 2015,Zeus,0,0,0,0,0,0,Intelligence
+69.75%,The International 2013,Batrider,113,48,161,99.38%,29.63%,45.83%,Intelligence
+74.07%,The International 2013,Outworld Devourer,120,32,152,93.83%,19.75%,37.50%,Intelligence
+51.85%,The International 2013,Lifestealer,84,67,151,93.21%,41.36%,56.72%,Strength
+38.27%,The International 2013,Visage,62,88,150,92.59%,54.32%,55.68%,Intelligence
+46.30%,The International 2013,Chen,75,65,140,86.42%,40.12%,63.08%,Intelligence
+66.05%,The International 2013,Io,107,27,134,82.72%,16.67%,62.96%,Strength
+45.06%,The International 2013,Dark Seer,73,59,132,81.48%,36.42%,52.54%,Intelligence
+44.44%,The International 2013,Alchemist,72,60,132,81.48%,37.04%,46.67%,Strength
+29.01%,The International 2013,Weaver,47,75,122,75.31%,46.30%,57.33%,Agility
+25.31%,The International 2013,Natures Prophet,41,69,110,67.90%,42.59%,47.83%,Intelligence
+30.86%,The International 2013,Dragon Knight,50,57,107,66.05%,35.19%,43.86%,Strength
+35.80%,The International 2013,Naga Siren,58,43,101,62.35%,26.54%,55.81%,Agility
+28.40%,The International 2013,Gyrocopter,46,48,94,58.02%,29.63%,56.25%,Agility
+14.20%,The International 2013,Rubick,23,69,92,56.79%,42.59%,40.58%,Intelligence
+19.75%,The International 2013,Nyx Assassin,32,46,78,48.15%,28.40%,52.17%,Agility
+19.75%,The International 2013,Puck,32,43,75,46.30%,26.54%,58.14%,Intelligence
+29.63%,The International 2013,Razor,48,27,75,46.30%,16.67%,48.15%,Agility
+21.60%,The International 2013,Shadow Demon,35,31,66,40.74%,19.14%,45.16%,Intelligence
+25.31%,The International 2013,Enchantress,41,23,64,39.51%,14.20%,30.43%,Intelligence
+24.07%,The International 2013,Lone Druid,39,22,61,37.65%,13.58%,45.45%,Agility
+8.02%,The International 2013,Bane,13,46,59,36.42%,28.40%,54.35%,Intelligence
+20.99%,The International 2013,Anti-Mage,34,16,50,30.86%,9.88%,68.75%,Agility
+17.90%,The International 2013,Keeper of the Light,29,21,50,30.86%,12.96%,66.67%,Intelligence
+8.64%,The International 2013,Beastmaster,14,32,46,28.40%,19.75%,46.88%,Strength
+20.37%,The International 2013,Treant Protector,33,13,46,28.40%,8.02%,46.15%,Strength
+14.81%,The International 2013,Bounty Hunter,24,20,44,27.16%,12.35%,55.00%,Agility
+11.11%,The International 2013,Timbersaw,18,24,42,25.93%,14.81%,45.83%,Strength
+13.58%,The International 2013,Queen of Pain,22,17,39,24.07%,10.49%,41.18%,Intelligence
+11.11%,The International 2013,Enigma,18,20,38,23.46%,12.35%,45.00%,Intelligence
+11.73%,The International 2013,Storm Spirit,19,18,37,22.84%,11.11%,50.00%,Intelligence
+8.02%,The International 2013,Clockwerk,13,23,36,22.22%,14.20%,47.83%,Strength
+8.02%,The International 2013,Shadow Fiend,13,22,35,21.60%,13.58%,54.55%,Agility
+4.94%,The International 2013,Vengeful Spirit,8,26,34,20.99%,16.05%,42.31%,Agility
+9.26%,The International 2013,Jakiro,15,19,34,20.99%,11.73%,42.11%,Intelligence
+6.79%,The International 2013,Magnus,11,19,30,18.52%,11.73%,52.63%,Strength
+1.23%,The International 2013,Crystal Maiden,2,26,28,17.28%,16.05%,61.54%,Intelligence
+9.88%,The International 2013,Tinker,16,12,28,17.28%,7.41%,25.00%,Intelligence
+6.79%,The International 2013,Spectre,11,13,24,14.81%,8.02%,46.15%,Agility
+3.09%,The International 2013,Windranger,5,17,22,13.58%,10.49%,47.06%,Intelligence
+6.17%,The International 2013,Leshrac,10,12,22,13.58%,7.41%,33.33%,Intelligence
+6.79%,The International 2013,Juggernaut,11,9,20,12.35%,5.56%,33.33%,Agility
+3.09%,The International 2013,Sand King,5,15,20,12.35%,9.26%,20.00%,Strength
+4.94%,The International 2013,Ursa,8,11,19,11.73%,6.79%,72.73%,Agility
+4.32%,The International 2013,Doom,7,11,18,11.11%,6.79%,27.27%,Strength
+2.47%,The International 2013,Chaos Knight,4,13,17,10.49%,8.02%,61.54%,Strength
+1.85%,The International 2013,Earthshaker,3,13,16,9.88%,8.02%,69.23%,Strength
+3.09%,The International 2013,Mirana,5,10,15,9.26%,6.17%,60.00%,Agility
+0.62%,The International 2013,Tidehunter,1,14,15,9.26%,8.64%,42.86%,Strength
+4.94%,The International 2013,Templar Assassin,8,6,14,8.64%,3.70%,33.33%,Agility
+1.85%,The International 2013,Morphling,3,9,12,7.41%,5.56%,55.56%,Agility
+2.47%,The International 2013,Phantom Lancer,4,8,12,7.41%,4.94%,50.00%,Agility
+1.85%,The International 2013,Venomancer,3,9,12,7.41%,5.56%,44.44%,Agility
+1.23%,The International 2013,Lina,2,9,11,6.79%,5.56%,44.44%,Intelligence
+3.09%,The International 2013,Viper,5,4,9,5.56%,2.47%,75.00%,Agility
+1.85%,The International 2013,Skywrath Mage,3,4,7,4.32%,2.47%,25.00%,Intelligence
+0.62%,The International 2013,Silencer,1,5,6,3.70%,3.09%,40.00%,Intelligence
+0.62%,The International 2013,Pudge,1,4,5,3.09%,2.47%,75.00%,Strength
+1.23%,The International 2013,Kunkka,2,3,5,3.09%,1.85%,33.33%,Strength
+2.47%,The International 2013,Disruptor,4,1,5,3.09%,0.62%,0.00%,Intelligence
+1.23%,The International 2013,Axe,2,2,4,2.47%,1.23%,50.00%,Strength
+0.00%,The International 2013,Lion,0,4,4,2.47%,2.47%,0.00%,Intelligence
+0.62%,The International 2013,Lich,1,3,4,2.47%,1.85%,33.33%,Intelligence
+1.23%,The International 2013,Faceless Void,2,2,4,2.47%,1.23%,0.00%,Agility
+0.00%,The International 2013,Luna,0,4,4,2.47%,2.47%,50.00%,Agility
+1.23%,The International 2013,Ancient Apparition,2,2,4,2.47%,1.23%,100.00%,Intelligence
+0.62%,The International 2013,Sven,1,2,3,1.85%,1.23%,50.00%,Strength
+0.62%,The International 2013,Clinkz,1,2,3,1.85%,1.23%,50.00%,Agility
+0.62%,The International 2013,Undying,1,2,3,1.85%,1.23%,50.00%,Strength
+0.00%,The International 2013,Bloodseeker,0,2,2,1.23%,1.23%,0.00%,Agility
+0.62%,The International 2013,Shadow Shaman,1,1,2,1.23%,0.62%,100.00%,Intelligence
+0.00%,The International 2013,Slardar,0,2,2,1.23%,1.23%,50.00%,Strength
+0.00%,The International 2013,Pugna,0,2,2,1.23%,1.23%,50.00%,Intelligence
+0.00%,The International 2013,Dazzle,0,2,2,1.23%,1.23%,0.00%,Intelligence
+0.00%,The International 2013,Omniknight,0,2,2,1.23%,1.23%,50.00%,Strength
+0.62%,The International 2013,Spirit Breaker,1,1,2,1.23%,0.62%,0.00%,Strength
+0.62%,The International 2013,Meepo,1,1,2,1.23%,0.62%,0.00%,Agility
+0.00%,The International 2013,Slark,0,2,2,1.23%,1.23%,0.00%,Agility
+0.00%,The International 2013,Tiny,0,1,1,0.62%,0.62%,0.00%,Strength
+0.00%,The International 2013,Zeus,0,1,1,0.62%,0.62%,0.00%,Intelligence
+0.00%,The International 2013,Sniper,0,1,1,0.62%,0.62%,100.00%,Agility
+0.00%,The International 2013,Warlock,0,1,1,0.62%,0.62%,0.00%,Intelligence
+0.00%,The International 2013,Wraith King,0,1,1,0.62%,0.62%,100.00%,Strength
+0.00%,The International 2013,Night Stalker,0,1,1,0.62%,0.62%,100.00%,Strength
+0.00%,The International 2013,Broodmother,0,1,1,0.62%,0.62%,0.00%,Agility
+0.00%,The International 2013,Invoker,0,1,1,0.62%,0.62%,100.00%,Intelligence
+0.00%,The International 2013,Ogre Magi,0,1,1,0.62%,0.62%,0.00%,Intelligence
+0.62%,The International 2013,Bristleback,1,0,1,0.62%,0.00%,0.00%,Strength
+,The International 2013,Monkey King,,,,,,,Agility
+,The International 2013,Underlord,,,,,,,Strength
+,The International 2013,Arc Warden,,,,,,,Agility
+,The International 2013,Winter Wyvern,,,,,,,Intelligence
+,The International 2013,Oracle,,,,,,,Intelligence
+,The International 2013,Techies,,,,,,,Intelligence
+,The International 2013,Terrorblade,,,,,,,Agility
+,The International 2013,Phoenix,,,,,,,Strength
+,The International 2013,Legion Commander,,,,,,,Strength
+,The International 2013,Earth Spirit,,,,,,,Strength
+,The International 2013,Ember Spirit,,,,,,,Agility
+0,The International 2013,Abaddon,0,0,0,0,0,0,Strength
+0,The International 2013,Brewmaster,0,0,0,0,0,0,Strength
+0,The International 2013,Centaur Warrunner,0,0,0,0,0,0,Strength
+0,The International 2013,Elder Titan,0,0,0,0,0,0,Strength
+0,The International 2013,Huskar,0,0,0,0,0,0,Strength
+0,The International 2013,Lycan,0,0,0,0,0,0,Strength
+0,The International 2013,Tusk,0,0,0,0,0,0,Strength
+0,The International 2013,Drow Ranger,0,0,0,0,0,0,Agility
+0,The International 2013,Medusa,0,0,0,0,0,0,Agility
+0,The International 2013,Phantom Assassin,0,0,0,0,0,0,Agility
+0,The International 2013,Riki,0,0,0,0,0,0,Agility
+0,The International 2013,Troll Warlord,0,0,0,0,0,0,Agility
+0,The International 2013,Death Prophet,0,0,0,0,0,0,Intelligence
+0,The International 2013,Necrophos,0,0,0,0,0,0,Intelligence
+0,The International 2013,Witch Doctor,0,0,0,0,0,0,Intelligence
+86.63%,The International 2014,Lycan,149,20,169,98.26%,11.63%,70.00%,Strength
+54.07%,The International 2014,Doom,93,63,156,90.70%,36.63%,60.32%,Strength
+37.79%,The International 2014,Razor,65,87,152,88.37%,50.58%,43.68%,Agility
+50.58%,The International 2014,Brewmaster,87,56,143,83.14%,32.56%,48.21%,Strength
+23.26%,The International 2014,Shadow Shaman,40,83,123,71.51%,48.26%,56.63%,Intelligence
+34.88%,The International 2014,Tidehunter,60,60,120,69.77%,34.88%,41.67%,Strength
+18.02%,The International 2014,Skywrath Mage,31,83,114,66.28%,48.26%,49.40%,Intelligence
+34.88%,The International 2014,Faceless Void,60,53,113,65.70%,30.81%,39.62%,Agility
+52.33%,The International 2014,Tinker,90,21,111,64.53%,12.21%,42.86%,Intelligence
+29.07%,The International 2014,Mirana,50,59,109,63.37%,34.30%,49.15%,Agility
+27.91%,The International 2014,Enigma,48,47,95,55.23%,27.33%,55.32%,Intelligence
+33.14%,The International 2014,Batrider,57,38,95,55.23%,22.09%,47.37%,Intelligence
+23.26%,The International 2014,Natures Prophet,40,49,89,51.74%,28.49%,53.06%,Intelligence
+35.47%,The International 2014,Naga Siren,61,17,78,45.35%,9.88%,35.29%,Agility
+20.93%,The International 2014,Viper,36,40,76,44.19%,23.26%,55.00%,Agility
+12.21%,The International 2014,Earthshaker,21,52,73,42.44%,30.23%,59.62%,Strength
+15.12%,The International 2014,Wraith King,26,46,72,41.86%,26.74%,47.83%,Strength
+18.02%,The International 2014,Ancient Apparition,31,38,69,40.12%,22.09%,47.37%,Intelligence
+20.35%,The International 2014,Ember Spirit,35,32,67,38.95%,18.60%,56.25%,Agility
+20.35%,The International 2014,Invoker,35,29,64,37.21%,16.86%,51.72%,Intelligence
+17.44%,The International 2014,Morphling,30,33,63,36.63%,19.19%,60.61%,Agility
+27.33%,The International 2014,Io,47,14,61,35.47%,8.14%,42.86%,Strength
+12.79%,The International 2014,Rubick,22,36,58,33.72%,20.93%,47.22%,Intelligence
+16.28%,The International 2014,Shadow Demon,28,29,57,33.14%,16.86%,58.62%,Intelligence
+24.42%,The International 2014,Pugna,42,11,53,30.81%,6.40%,54.55%,Intelligence
+18.60%,The International 2014,Enchantress,32,20,52,30.23%,11.63%,45.00%,Intelligence
+15.70%,The International 2014,Lich,27,23,50,29.07%,13.37%,47.83%,Intelligence
+18.60%,The International 2014,Death Prophet,32,18,50,29.07%,10.47%,55.56%,Intelligence
+9.30%,The International 2014,Sand King,16,25,41,23.84%,14.53%,32.00%,Strength
+9.30%,The International 2014,Weaver,16,23,39,22.67%,13.37%,69.57%,Agility
+11.05%,The International 2014,Venomancer,19,19,38,22.09%,11.05%,36.84%,Agility
+8.14%,The International 2014,Bane,14,23,37,21.51%,13.37%,34.78%,Intelligence
+4.65%,The International 2014,Alchemist,8,25,33,19.19%,14.53%,64.00%,Strength
+6.98%,The International 2014,Bristleback,12,21,33,19.19%,12.21%,47.62%,Strength
+6.98%,The International 2014,Puck,12,18,30,17.44%,10.47%,50.00%,Intelligence
+6.40%,The International 2014,Dragon Knight,11,19,30,17.44%,11.05%,52.63%,Strength
+7.56%,The International 2014,Clockwerk,13,15,28,16.28%,8.72%,53.33%,Strength
+5.81%,The International 2014,Centaur Warrunner,10,16,26,15.12%,9.30%,68.75%,Strength
+7.56%,The International 2014,Templar Assassin,13,12,25,14.53%,6.98%,50.00%,Agility
+3.49%,The International 2014,Treant Protector,6,19,25,14.53%,11.05%,36.84%,Strength
+9.30%,The International 2014,Visage,16,8,24,13.95%,4.65%,62.50%,Intelligence
+5.23%,The International 2014,Queen of Pain,9,14,23,13.37%,8.14%,42.86%,Intelligence
+6.40%,The International 2014,Lone Druid,11,11,22,12.79%,6.40%,45.45%,Agility
+5.81%,The International 2014,Storm Spirit,10,10,20,11.63%,5.81%,50.00%,Intelligence
+4.65%,The International 2014,Luna,8,12,20,11.63%,6.98%,50.00%,Agility
+2.91%,The International 2014,Lion,5,14,19,11.05%,8.14%,28.57%,Intelligence
+0.58%,The International 2014,Vengeful Spirit,1,17,18,10.47%,9.88%,52.94%,Agility
+6.40%,The International 2014,Outworld Devourer,11,7,18,10.47%,4.07%,28.57%,Intelligence
+3.49%,The International 2014,Elder Titan,6,12,18,10.47%,6.98%,58.33%,Strength
+3.49%,The International 2014,Kunkka,6,10,16,9.30%,5.81%,50.00%,Strength
+1.74%,The International 2014,Leshrac,3,12,15,8.72%,6.98%,66.67%,Intelligence
+3.49%,The International 2014,Disruptor,6,9,15,8.72%,5.23%,55.56%,Intelligence
+2.91%,The International 2014,Lifestealer,5,9,14,8.14%,5.23%,55.56%,Strength
+3.49%,The International 2014,Ursa,6,8,14,8.14%,4.65%,62.50%,Agility
+4.07%,The International 2014,Nyx Assassin,7,7,14,8.14%,4.07%,71.43%,Agility
+5.23%,The International 2014,Troll Warlord,9,5,14,8.14%,2.91%,20.00%,Agility
+2.91%,The International 2014,Shadow Fiend,5,8,13,7.56%,4.65%,50.00%,Agility
+2.33%,The International 2014,Jakiro,4,9,13,7.56%,5.23%,11.11%,Intelligence
+5.23%,The International 2014,Slark,9,4,13,7.56%,2.33%,25.00%,Agility
+0.58%,The International 2014,Witch Doctor,1,10,11,6.40%,5.81%,60.00%,Intelligence
+1.16%,The International 2014,Juggernaut,2,8,10,5.81%,4.65%,75.00%,Agility
+1.74%,The International 2014,Dazzle,3,7,10,5.81%,4.07%,42.86%,Intelligence
+1.74%,The International 2014,Dark Seer,3,7,10,5.81%,4.07%,42.86%,Intelligence
+1.16%,The International 2014,Chen,2,8,10,5.81%,4.65%,37.50%,Intelligence
+2.33%,The International 2014,Silencer,4,5,9,5.23%,2.91%,20.00%,Intelligence
+0.58%,The International 2014,Timbersaw,1,8,9,5.23%,4.65%,37.50%,Strength
+2.33%,The International 2014,Anti-Mage,4,4,8,4.65%,2.33%,25.00%,Agility
+2.91%,The International 2014,Drow Ranger,5,3,8,4.65%,1.74%,100.00%,Agility
+0.58%,The International 2014,Tiny,1,7,8,4.65%,4.07%,71.43%,Strength
+0.58%,The International 2014,Windranger,1,7,8,4.65%,4.07%,57.14%,Intelligence
+0.00%,The International 2014,Beastmaster,0,8,8,4.65%,4.65%,37.50%,Strength
+2.33%,The International 2014,Phantom Assassin,4,4,8,4.65%,2.33%,0.00%,Agility
+1.74%,The International 2014,Clinkz,3,5,8,4.65%,2.91%,20.00%,Agility
+2.91%,The International 2014,Gyrocopter,5,3,8,4.65%,1.74%,66.67%,Agility
+1.74%,The International 2014,Axe,3,4,7,4.07%,2.33%,0.00%,Strength
+1.74%,The International 2014,Spectre,3,4,7,4.07%,2.33%,75.00%,Agility
+1.74%,The International 2014,Meepo,3,4,7,4.07%,2.33%,50.00%,Agility
+1.16%,The International 2014,Abaddon,2,5,7,4.07%,2.91%,80.00%,Strength
+1.74%,The International 2014,Magnus,3,2,5,2.91%,1.16%,50.00%,Strength
+0.00%,The International 2014,Undying,0,4,4,2.33%,2.33%,75.00%,Strength
+1.16%,The International 2014,Tusk,2,2,4,2.33%,1.16%,50.00%,Strength
+0.58%,The International 2014,Sven,1,2,3,1.74%,1.16%,50.00%,Strength
+0.00%,The International 2014,Sniper,0,3,3,1.74%,1.74%,33.33%,Agility
+0.00%,The International 2014,Bounty Hunter,0,3,3,1.74%,1.74%,100.00%,Agility
+0.58%,The International 2014,Chaos Knight,1,2,3,1.74%,1.16%,50.00%,Strength
+0.00%,The International 2014,Ogre Magi,0,3,3,1.74%,1.74%,0.00%,Intelligence
+0.00%,The International 2014,Zeus,0,2,2,1.16%,1.16%,0.00%,Intelligence
+0.00%,The International 2014,Riki,0,2,2,1.16%,1.16%,0.00%,Agility
+0.58%,The International 2014,Warlock,1,1,2,1.16%,0.58%,100.00%,Intelligence
+0.00%,The International 2014,Pudge,0,1,1,0.58%,0.58%,100.00%,Strength
+0.00%,The International 2014,Lina,0,1,1,0.58%,0.58%,0.00%,Intelligence
+0.00%,The International 2014,Necrophos,0,1,1,0.58%,0.58%,100.00%,Intelligence
+0.00%,The International 2014,Omniknight,0,1,1,0.58%,0.58%,100.00%,Strength
+0.00%,The International 2014,Medusa,0,1,1,0.58%,0.58%,0.00%,Agility
+,The International 2014,Monkey King,,,,,,,Agility
+,The International 2014,Underlord,,,,,,,Strength
+,The International 2014,Arc Warden,,,,,,,Agility
+,The International 2014,Winter Wyvern,,,,,,,Intelligence
+,The International 2014,Oracle,,,,,,,Intelligence
+,The International 2014,Techies,,,,,,,Intelligence
+,The International 2014,Terrorblade,,,,,,,Agility
+,The International 2014,Earth Spirit,,,,,,,Strength
+,The International 2014,Legion Commander,,,,,,,Strength
+0,The International 2014,Huskar,0,0,0,0,0,0,Strength
+0,The International 2014,Night Stalker,0,0,0,0,0,0,Strength
+0,The International 2014,Phoenix,0,0,0,0,0,0,Strength
+0,The International 2014,Slardar,0,0,0,0,0,0,Strength
+0,The International 2014,Spirit Breaker,0,0,0,0,0,0,Strength
+0,The International 2014,Bloodseeker,0,0,0,0,0,0,Agility
+0,The International 2014,Broodmother,0,0,0,0,0,0,Agility
+0,The International 2014,Phantom Lancer,0,0,0,0,0,0,Agility
+0,The International 2014,Crystal Maiden,0,0,0,0,0,0,Intelligence
+0,The International 2014,Keeper of the Light,0,0,0,0,0,0,Intelligence
+90.70%,The International 2015,Leshrac,156,16,172,100.00%,9.30%,62.50%,Intelligence
+45.93%,The International 2015,Gyrocopter,79,93,172,100.00%,54.07%,60.22%,Agility
+36.05%,The International 2015,Queen of Pain,62,96,158,91.86%,55.81%,43.75%,Intelligence
+34.88%,The International 2015,Tusk,60,90,150,87.21%,52.33%,52.22%,Strength
+52.33%,The International 2015,Shadow Fiend,90,51,141,81.98%,29.65%,39.22%,Agility
+52.33%,The International 2015,Bounty Hunter,90,51,141,81.98%,29.65%,68.63%,Agility
+25.58%,The International 2015,Lina,44,95,139,80.81%,55.23%,55.79%,Intelligence
+29.07%,The International 2015,Dazzle,50,86,136,79.07%,50.00%,46.51%,Intelligence
+51.74%,The International 2015,Naga Siren,89,42,131,76.16%,24.42%,54.76%,Agility
+46.51%,The International 2015,Undying,80,46,126,73.26%,26.74%,50.00%,Strength
+26.74%,The International 2015,Earthshaker,46,76,122,70.93%,44.19%,46.05%,Strength
+29.65%,The International 2015,Dark Seer,51,51,102,59.30%,29.65%,54.90%,Intelligence
+28.49%,The International 2015,Winter Wyvern,49,48,97,56.40%,27.91%,41.67%,Intelligence
+33.72%,The International 2015,Bloodseeker,58,37,95,55.23%,21.51%,37.84%,Agility
+25.00%,The International 2015,Storm Spirit,43,51,94,54.65%,29.65%,54.90%,Intelligence
+22.09%,The International 2015,Clockwerk,38,53,91,52.91%,30.81%,49.06%,Strength
+40.12%,The International 2015,Broodmother,69,14,83,48.26%,8.14%,64.29%,Agility
+19.77%,The International 2015,Rubick,34,49,83,48.26%,28.49%,48.98%,Intelligence
+28.49%,The International 2015,Phantom Lancer,49,27,76,44.19%,15.70%,62.96%,Agility
+19.19%,The International 2015,Razor,33,40,73,42.44%,23.26%,37.50%,Agility
+20.93%,The International 2015,Spirit Breaker,36,36,72,41.86%,20.93%,52.78%,Strength
+23.84%,The International 2015,Anti-Mage,41,27,68,39.53%,15.70%,48.15%,Agility
+15.70%,The International 2015,Ember Spirit,27,32,59,34.30%,18.60%,43.75%,Agility
+16.86%,The International 2015,Io,29,26,55,31.98%,15.12%,53.85%,Strength
+20.93%,The International 2015,Viper,36,16,52,30.23%,9.30%,50.00%,Agility
+15.12%,The International 2015,Templar Assassin,26,25,51,29.65%,14.53%,72.00%,Agility
+7.56%,The International 2015,Witch Doctor,13,36,49,28.49%,20.93%,41.67%,Intelligence
+12.21%,The International 2015,Dragon Knight,21,22,43,25.00%,12.79%,59.09%,Strength
+8.14%,The International 2015,Bane,14,28,42,24.42%,16.28%,35.71%,Intelligence
+11.05%,The International 2015,Disruptor,19,20,39,22.67%,11.63%,55.00%,Intelligence
+2.33%,The International 2015,Crystal Maiden,4,27,31,18.02%,15.70%,62.96%,Intelligence
+13.37%,The International 2015,Techies,23,8,31,18.02%,4.65%,87.50%,Intelligence
+4.07%,The International 2015,Lion,7,22,29,16.86%,12.79%,40.91%,Intelligence
+9.30%,The International 2015,Silencer,16,11,27,15.70%,6.40%,63.64%,Intelligence
+9.88%,The International 2015,Ancient Apparition,17,8,25,14.53%,4.65%,50.00%,Intelligence
+3.49%,The International 2015,Clinkz,6,14,20,11.63%,8.14%,50.00%,Agility
+4.07%,The International 2015,Sand King,7,12,19,11.05%,6.98%,66.67%,Strength
+3.49%,The International 2015,Skywrath Mage,6,12,18,10.47%,6.98%,16.67%,Intelligence
+4.07%,The International 2015,Pugna,7,10,17,9.88%,5.81%,40.00%,Intelligence
+2.33%,The International 2015,Visage,4,13,17,9.88%,7.56%,69.23%,Intelligence
+3.49%,The International 2015,Bristleback,6,9,15,8.72%,5.23%,66.67%,Strength
+2.91%,The International 2015,Luna,5,9,14,8.14%,5.23%,66.67%,Agility
+4.07%,The International 2015,Juggernaut,7,6,13,7.56%,3.49%,33.33%,Agility
+1.16%,The International 2015,Zeus,2,11,13,7.56%,6.40%,27.27%,Intelligence
+3.49%,The International 2015,Shadow Demon,6,6,12,6.98%,3.49%,33.33%,Intelligence
+1.16%,The International 2015,Tiny,2,9,11,6.40%,5.23%,44.44%,Strength
+2.91%,The International 2015,Enigma,5,6,11,6.40%,3.49%,66.67%,Intelligence
+1.16%,The International 2015,Treant Protector,2,8,10,5.81%,4.65%,50.00%,Strength
+1.74%,The International 2015,Magnus,3,7,10,5.81%,4.07%,42.86%,Strength
+1.16%,The International 2015,Phoenix,2,8,10,5.81%,4.65%,37.50%,Strength
+1.74%,The International 2015,Axe,3,6,9,5.23%,3.49%,33.33%,Strength
+0.58%,The International 2015,Puck,1,8,9,5.23%,4.65%,62.50%,Intelligence
+2.33%,The International 2015,Tidehunter,4,5,9,5.23%,2.91%,20.00%,Strength
+2.33%,The International 2015,Keeper of the Light,4,5,9,5.23%,2.91%,20.00%,Intelligence
+1.74%,The International 2015,Centaur Warrunner,3,6,9,5.23%,3.49%,33.33%,Strength
+0.00%,The International 2015,Shadow Shaman,0,8,8,4.65%,4.65%,25.00%,Intelligence
+2.91%,The International 2015,Beastmaster,5,3,8,4.65%,1.74%,100.00%,Strength
+1.16%,The International 2015,Slardar,2,5,7,4.07%,2.91%,40.00%,Strength
+1.16%,The International 2015,Wraith King,2,5,7,4.07%,2.91%,60.00%,Strength
+1.74%,The International 2015,Legion Commander,3,4,7,4.07%,2.33%,0.00%,Strength
+0.58%,The International 2015,Windranger,1,5,6,3.49%,2.91%,40.00%,Intelligence
+1.74%,The International 2015,Natures Prophet,3,3,6,3.49%,1.74%,33.33%,Intelligence
+1.16%,The International 2015,Omniknight,2,4,6,3.49%,2.33%,50.00%,Strength
+1.16%,The International 2015,Chen,2,4,6,3.49%,2.33%,25.00%,Intelligence
+1.16%,The International 2015,Drow Ranger,2,3,5,2.91%,1.74%,33.33%,Agility
+0.00%,The International 2015,Sven,0,5,5,2.91%,2.91%,40.00%,Strength
+0.58%,The International 2015,Night Stalker,1,4,5,2.91%,2.33%,50.00%,Strength
+0.58%,The International 2015,Lycan,1,4,5,2.91%,2.33%,50.00%,Strength
+0.58%,The International 2015,Enchantress,1,3,4,2.33%,1.74%,66.67%,Intelligence
+0.00%,The International 2015,Invoker,0,4,4,2.33%,2.33%,0.00%,Intelligence
+1.16%,The International 2015,Chaos Knight,2,2,4,2.33%,1.16%,50.00%,Strength
+0.58%,The International 2015,Slark,1,3,4,2.33%,1.74%,33.33%,Agility
+0.00%,The International 2015,Phantom Assassin,0,3,3,1.74%,1.74%,33.33%,Agility
+0.58%,The International 2015,Vengeful Spirit,1,1,2,1.16%,0.58%,100.00%,Agility
+0.00%,The International 2015,Lich,0,2,2,1.16%,1.16%,100.00%,Intelligence
+0.00%,The International 2015,Sniper,0,2,2,1.16%,1.16%,50.00%,Agility
+0.00%,The International 2015,Venomancer,0,2,2,1.16%,1.16%,50.00%,Agility
+0.58%,The International 2015,Huskar,1,1,2,1.16%,0.58%,0.00%,Strength
+0.58%,The International 2015,Batrider,1,1,2,1.16%,0.58%,0.00%,Intelligence
+0.58%,The International 2015,Spectre,1,1,2,1.16%,0.58%,100.00%,Agility
+0.00%,The International 2015,Brewmaster,0,2,2,1.16%,1.16%,50.00%,Strength
+0.58%,The International 2015,Nyx Assassin,1,1,2,1.16%,0.58%,0.00%,Agility
+0.00%,The International 2015,Timbersaw,0,2,2,1.16%,1.16%,50.00%,Strength
+0.00%,The International 2015,Morphling,0,1,1,0.58%,0.58%,100.00%,Agility
+0.58%,The International 2015,Pudge,1,0,1,0.58%,0.00%,0.00%,Strength
+0.00%,The International 2015,Tinker,0,1,1,0.58%,0.58%,0.00%,Intelligence
+0.00%,The International 2015,Lifestealer,0,1,1,0.58%,0.58%,100.00%,Strength
+0.00%,The International 2015,Jakiro,0,1,1,0.58%,0.58%,0.00%,Intelligence
+0.00%,The International 2015,Ursa,0,1,1,0.58%,0.58%,0.00%,Agility
+0.58%,The International 2015,Outworld Devourer,1,0,1,0.58%,0.00%,0.00%,Intelligence
+0.00%,The International 2015,Medusa,0,1,1,0.58%,0.58%,0.00%,Agility
+0.00%,The International 2015,Abaddon,0,1,1,0.58%,0.58%,0.00%,Strength
+,The International 2015,Monkey King,,,,,,,Agility
+,The International 2015,Underlord,,,,,,,Strength
+,The International 2015,Arc Warden,,,,,,,Agility
+,The International 2015,Earth Spirit,,,,,,,Strength
+,The International 2015,Oracle,,,,,,,Intelligence
+0,The International 2015,Alchemist,0,0,0,0,0,0,Strength
+0,The International 2015,Doom,0,0,0,0,0,0,Strength
+0,The International 2015,Elder Titan,0,0,0,0,0,0,Strength
+0,The International 2015,Kunkka,0,0,0,0,0,0,Strength
+0,The International 2015,Faceless Void,0,0,0,0,0,0,Agility
+0,The International 2015,Lone Druid,0,0,0,0,0,0,Agility
+0,The International 2015,Meepo,0,0,0,0,0,0,Agility
+0,The International 2015,Mirana,0,0,0,0,0,0,Agility
+0,The International 2015,Riki,0,0,0,0,0,0,Agility
+0,The International 2015,Terrorblade,0,0,0,0,0,0,Agility
+0,The International 2015,Troll Warlord,0,0,0,0,0,0,Agility
+0,The International 2015,Weaver,0,0,0,0,0,0,Agility
+0,The International 2015,Death Prophet,0,0,0,0,0,0,Intelligence
+0,The International 2015,Necrophos,0,0,0,0,0,0,Intelligence
+0,The International 2015,Ogre Magi,0,0,0,0,0,0,Intelligence
+0,The International 2015,Warlock,0,0,0,0,0,0,Intelligence
+32.93%,The International 2016,Mirana,55,87,142,85.03%,52.10%,58.62%,Agility
+34.13%,The International 2016,Batrider,57,78,135,80.84%,46.71%,44.87%,Intelligence
+51.50%,The International 2016,Elder Titan,86,49,135,80.84%,29.34%,63.27%,Strength
+57.49%,The International 2016,Io,96,29,125,74.85%,17.37%,48.28%,Strength
+47.31%,The International 2016,Drow Ranger,79,44,123,73.65%,26.35%,56.82%,Agility
+37.72%,The International 2016,Shadow Demon,63,59,122,73.05%,35.33%,59.32%,Intelligence
+43.71%,The International 2016,Naga Siren,73,26,99,59.28%,15.57%,57.69%,Agility
+28.14%,The International 2016,Oracle,47,47,94,56.29%,28.14%,51.06%,Intelligence
+35.93%,The International 2016,Alchemist,60,30,90,53.89%,17.96%,26.67%,Strength
+25.75%,The International 2016,Timbersaw,43,47,90,53.89%,28.14%,53.19%,Strength
+23.35%,The International 2016,Juggernaut,39,43,82,49.10%,25.75%,53.49%,Agility
+35.93%,The International 2016,Huskar,60,21,81,48.50%,12.57%,57.14%,Strength
+13.17%,The International 2016,Ogre Magi,22,57,79,47.31%,34.13%,43.86%,Intelligence
+17.37%,The International 2016,Faceless Void,29,47,76,45.51%,28.14%,46.81%,Agility
+19.76%,The International 2016,Axe,33,38,71,42.51%,22.75%,55.26%,Strength
+18.56%,The International 2016,Beastmaster,31,38,69,41.32%,22.75%,50.00%,Strength
+20.36%,The International 2016,Morphling,34,27,61,36.53%,16.17%,59.26%,Agility
+26.35%,The International 2016,Riki,44,17,61,36.53%,10.18%,52.94%,Agility
+17.96%,The International 2016,Keeper of the Light,30,29,59,35.33%,17.37%,44.83%,Intelligence
+17.37%,The International 2016,Sand King,29,29,58,34.73%,17.37%,58.62%,Strength
+13.77%,The International 2016,Kunkka,23,34,57,34.13%,20.36%,61.76%,Strength
+13.17%,The International 2016,Dazzle,22,35,57,34.13%,20.96%,37.14%,Intelligence
+14.37%,The International 2016,Lifestealer,24,32,56,33.53%,19.16%,34.38%,Strength
+14.97%,The International 2016,Slark,25,27,52,31.14%,16.17%,55.56%,Agility
+13.77%,The International 2016,Nyx Assassin,23,27,50,29.94%,16.17%,62.96%,Agility
+14.37%,The International 2016,Bounty Hunter,24,24,48,28.74%,14.37%,62.50%,Agility
+11.38%,The International 2016,Slardar,19,28,47,28.14%,16.77%,53.57%,Strength
+14.97%,The International 2016,Invoker,25,22,47,28.14%,13.17%,45.45%,Intelligence
+17.37%,The International 2016,Dark Seer,29,15,44,26.35%,8.98%,33.33%,Intelligence
+15.57%,The International 2016,Death Prophet,26,16,42,25.15%,9.58%,50.00%,Intelligence
+16.17%,The International 2016,Storm Spirit,27,13,40,23.95%,7.78%,46.15%,Intelligence
+5.39%,The International 2016,Vengeful Spirit,9,30,39,23.35%,17.96%,50.00%,Agility
+17.37%,The International 2016,Tinker,29,10,39,23.35%,5.99%,30.00%,Intelligence
+11.98%,The International 2016,Enchantress,20,17,37,22.16%,10.18%,17.65%,Intelligence
+10.78%,The International 2016,Terrorblade,18,18,36,21.56%,10.78%,38.89%,Agility
+10.18%,The International 2016,Razor,17,18,35,20.96%,10.78%,66.67%,Agility
+10.78%,The International 2016,Tidehunter,18,17,35,20.96%,10.18%,41.18%,Strength
+11.38%,The International 2016,Chen,19,14,33,19.76%,8.38%,64.29%,Intelligence
+10.18%,The International 2016,Ursa,17,16,33,19.76%,9.58%,68.75%,Agility
+5.99%,The International 2016,Earth Spirit,10,22,32,19.16%,13.17%,18.18%,Strength
+7.19%,The International 2016,Sven,12,19,31,18.56%,11.38%,47.37%,Strength
+10.18%,The International 2016,Luna,17,12,29,17.37%,7.19%,50.00%,Agility
+12.57%,The International 2016,Lone Druid,21,8,29,17.37%,4.79%,75.00%,Agility
+4.79%,The International 2016,Lion,8,16,24,14.37%,9.58%,37.50%,Intelligence
+10.78%,The International 2016,Ancient Apparition,18,6,24,14.37%,3.59%,66.67%,Intelligence
+4.79%,The International 2016,Disruptor,8,16,24,14.37%,9.58%,50.00%,Intelligence
+4.19%,The International 2016,Ember Spirit,7,15,22,13.17%,8.98%,40.00%,Agility
+2.40%,The International 2016,Rubick,4,16,20,11.98%,9.58%,50.00%,Intelligence
+5.39%,The International 2016,Lich,9,10,19,11.38%,5.99%,40.00%,Intelligence
+4.79%,The International 2016,Templar Assassin,8,10,18,10.78%,5.99%,30.00%,Agility
+8.38%,The International 2016,Broodmother,14,4,18,10.78%,2.40%,75.00%,Agility
+2.99%,The International 2016,Undying,5,13,18,10.78%,7.78%,76.92%,Strength
+6.59%,The International 2016,Weaver,11,6,17,10.18%,3.59%,16.67%,Agility
+5.39%,The International 2016,Winter Wyvern,9,8,17,10.18%,4.79%,75.00%,Intelligence
+1.20%,The International 2016,Witch Doctor,2,14,16,9.58%,8.38%,35.71%,Intelligence
+2.99%,The International 2016,Queen of Pain,5,10,15,8.98%,5.99%,50.00%,Intelligence
+2.40%,The International 2016,Dragon Knight,4,11,15,8.98%,6.59%,36.36%,Strength
+2.99%,The International 2016,Anti-Mage,5,9,14,8.38%,5.39%,33.33%,Agility
+2.99%,The International 2016,Natures Prophet,5,9,14,8.38%,5.39%,33.33%,Intelligence
+2.40%,The International 2016,Medusa,4,10,14,8.38%,5.99%,70.00%,Agility
+2.40%,The International 2016,Phantom Lancer,4,9,13,7.78%,5.39%,66.67%,Agility
+3.59%,The International 2016,Puck,6,7,13,7.78%,4.19%,71.43%,Intelligence
+2.40%,The International 2016,Phantom Assassin,4,9,13,7.78%,5.39%,66.67%,Agility
+0.00%,The International 2016,Skywrath Mage,0,13,13,7.78%,7.78%,46.15%,Intelligence
+2.40%,The International 2016,Warlock,4,8,12,7.19%,4.79%,50.00%,Intelligence
+5.39%,The International 2016,Viper,9,3,12,7.19%,1.80%,100.00%,Agility
+1.20%,The International 2016,Night Stalker,2,10,12,7.19%,5.99%,50.00%,Strength
+3.59%,The International 2016,Lycan,6,4,10,5.99%,2.40%,0.00%,Strength
+4.19%,The International 2016,Meepo,7,2,9,5.39%,1.20%,50.00%,Agility
+0.60%,The International 2016,Tiny,1,7,8,4.79%,4.19%,28.57%,Strength
+0.60%,The International 2016,Legion Commander,1,7,8,4.79%,4.19%,28.57%,Strength
+0.60%,The International 2016,Phoenix,1,7,8,4.79%,4.19%,14.29%,Strength
+1.20%,The International 2016,Bane,2,5,7,4.19%,2.99%,40.00%,Intelligence
+0.00%,The International 2016,Shadow Shaman,0,7,7,4.19%,4.19%,57.14%,Intelligence
+1.20%,The International 2016,Magnus,2,5,7,4.19%,2.99%,60.00%,Strength
+0.60%,The International 2016,Bristleback,1,6,7,4.19%,3.59%,66.67%,Strength
+0.60%,The International 2016,Crystal Maiden,1,5,6,3.59%,2.99%,40.00%,Intelligence
+0.60%,The International 2016,Spirit Breaker,1,5,6,3.59%,2.99%,60.00%,Strength
+0.00%,The International 2016,Silencer,0,6,6,3.59%,3.59%,50.00%,Intelligence
+0.00%,The International 2016,Venomancer,0,5,5,2.99%,2.99%,40.00%,Agility
+0.60%,The International 2016,Abaddon,1,4,5,2.99%,2.40%,100.00%,Strength
+1.20%,The International 2016,Zeus,2,2,4,2.40%,1.20%,100.00%,Intelligence
+1.20%,The International 2016,Outworld Devourer,2,2,4,2.40%,1.20%,100.00%,Intelligence
+0.00%,The International 2016,Enigma,0,3,3,1.80%,1.80%,33.33%,Intelligence
+0.00%,The International 2016,Brewmaster,0,3,3,1.80%,1.80%,33.33%,Strength
+0.00%,The International 2016,Shadow Fiend,0,2,2,1.20%,1.20%,50.00%,Agility
+0.00%,The International 2016,Pudge,0,2,2,1.20%,1.20%,0.00%,Strength
+0.00%,The International 2016,Windranger,0,2,2,1.20%,1.20%,0.00%,Intelligence
+0.60%,The International 2016,Necrophos,1,1,2,1.20%,0.60%,0.00%,Intelligence
+0.00%,The International 2016,Clinkz,0,2,2,1.20%,1.20%,0.00%,Agility
+0.60%,The International 2016,Omniknight,1,1,2,1.20%,0.60%,0.00%,Strength
+0.60%,The International 2016,Spectre,1,1,2,1.20%,0.60%,100.00%,Agility
+0.00%,The International 2016,Gyrocopter,0,2,2,1.20%,1.20%,50.00%,Agility
+0.00%,The International 2016,Chaos Knight,0,2,2,1.20%,1.20%,100.00%,Strength
+0.00%,The International 2016,Tusk,0,2,2,1.20%,1.20%,0.00%,Strength
+0.00%,The International 2016,Earthshaker,0,1,1,0.60%,0.60%,0.00%,Strength
+0.00%,The International 2016,Sniper,0,1,1,0.60%,0.60%,0.00%,Agility
+0.00%,The International 2016,Wraith King,0,1,1,0.60%,0.60%,0.00%,Strength
+0.00%,The International 2016,Pugna,0,1,1,0.60%,0.60%,0.00%,Intelligence
+0.00%,The International 2016,Clockwerk,0,1,1,0.60%,0.60%,0.00%,Strength
+0.00%,The International 2016,Jakiro,0,1,1,0.60%,0.60%,0.00%,Intelligence
+0.00%,The International 2016,Doom,0,1,1,0.60%,0.60%,100.00%,Strength
+0.00%,The International 2016,Troll Warlord,0,1,1,0.60%,0.60%,0.00%,Agility
+0.00%,The International 2016,Centaur Warrunner,0,1,1,0.60%,0.60%,100.00%,Strength
+0.00%,The International 2016,Techies,0,1,1,0.60%,0.60%,0.00%,Intelligence
+,The International 2016,Monkey King,,,,,,,Agility
+,The International 2016,Underlord,,,,,,,Strength
+,The International 2016,Arc Warden,,,,,,,Agility
+0,The International 2016,Treant Protector,0,0,0,0,0,0,Strength
+0,The International 2016,Bloodseeker,0,0,0,0,0,0,Agility
+0,The International 2016,Leshrac,0,0,0,0,0,0,Intelligence
+0,The International 2016,Lina,0,0,0,0,0,0,Intelligence
+0,The International 2016,Visage,0,0,0,0,0,0,Intelligence
+14.66%,The Kiev Major 2017,Abaddon,17,22,39,33.62%,18.97%,54.55%,Strength
+15.52%,The Kiev Major 2017,Alchemist,18,10,28,24.14%,8.62%,30.00%,Strength
+0,The Kiev Major 2017,Ancient Apparition,0,0,0,0,0,0,Intelligence
+5.17%,The Kiev Major 2017,Anti-Mage,6,8,14,12.07%,6.90%,37.50%,Agility
+1.72%,The Kiev Major 2017,Arc Warden,2,7,9,7.76%,6.03%,14.29%,Agility
+11.21%,The Kiev Major 2017,Axe,13,8,21,18.10%,6.90%,87.50%,Strength
+0.00%,The Kiev Major 2017,Bane,0,4,4,3.45%,3.45%,75.00%,Intelligence
+7.76%,The Kiev Major 2017,Batrider,9,14,23,19.83%,12.07%,42.86%,Intelligence
+6.03%,The Kiev Major 2017,Beastmaster,7,10,17,14.66%,8.62%,40.00%,Strength
+1.72%,The Kiev Major 2017,Bloodseeker,2,0,2,1.72%,0.00%,0.00%,Agility
+3.45%,The Kiev Major 2017,Bounty Hunter,4,10,14,12.07%,8.62%,40.00%,Agility
+0.86%,The Kiev Major 2017,Brewmaster,1,2,3,2.59%,1.72%,0.00%,Strength
+8.62%,The Kiev Major 2017,Bristleback,10,7,17,14.66%,6.03%,57.14%,Strength
+0.00%,The Kiev Major 2017,Broodmother,0,2,2,1.72%,1.72%,0.00%,Agility
+3.45%,The Kiev Major 2017,Centaur Warrunner,4,10,14,12.07%,8.62%,60.00%,Strength
+0.86%,The Kiev Major 2017,Chaos Knight,1,2,3,2.59%,1.72%,100.00%,Strength
+0,The Kiev Major 2017,Chen,0,0,0,0,0,0,Intelligence
+1.72%,The Kiev Major 2017,Clinkz,2,3,5,4.31%,2.59%,33.33%,Agility
+6.90%,The Kiev Major 2017,Clockwerk,8,13,21,18.10%,11.21%,23.08%,Strength
+26.72%,The Kiev Major 2017,Crystal Maiden,31,54,85,73.28%,46.55%,59.26%,Intelligence
+13.79%,The Kiev Major 2017,Dark Seer,16,12,28,24.14%,10.34%,75.00%,Intelligence
+2.59%,The Kiev Major 2017,Dazzle,3,14,17,14.66%,12.07%,42.86%,Intelligence
+2.59%,The Kiev Major 2017,Death Prophet,3,6,9,7.76%,5.17%,50.00%,Intelligence
+4.31%,The Kiev Major 2017,Disruptor,5,16,21,18.10%,13.79%,62.50%,Intelligence
+3.45%,The Kiev Major 2017,Doom,4,6,10,8.62%,5.17%,50.00%,Strength
+3.45%,The Kiev Major 2017,Dragon Knight,4,8,12,10.34%,6.90%,50.00%,Strength
+1.72%,The Kiev Major 2017,Drow Ranger,2,0,2,1.72%,0.00%,0.00%,Agility
+20.69%,The Kiev Major 2017,Earth Spirit,24,18,42,36.21%,15.52%,33.33%,Strength
+0.00%,The Kiev Major 2017,Earthshaker,0,8,8,6.90%,6.90%,37.50%,Strength
+0.00%,The Kiev Major 2017,Elder Titan,0,3,3,2.59%,2.59%,66.67%,Strength
+32.76%,The Kiev Major 2017,Ember Spirit,38,35,73,62.93%,30.17%,48.57%,Agility
+0.00%,The Kiev Major 2017,Enchantress,0,1,1,0.86%,0.86%,0.00%,Intelligence
+11.21%,The Kiev Major 2017,Enigma,13,10,23,19.83%,8.62%,80.00%,Intelligence
+3.45%,The Kiev Major 2017,Faceless Void,4,6,10,8.62%,5.17%,16.67%,Agility
+0,The Kiev Major 2017,Gyrocopter,0,0,0,0,0,0,Agility
+0.86%,The Kiev Major 2017,Huskar,1,0,1,0.86%,0.00%,0.00%,Strength
+25.00%,The Kiev Major 2017,Invoker,29,26,55,47.41%,22.41%,46.15%,Intelligence
+43.10%,The Kiev Major 2017,Io,50,11,61,52.59%,9.48%,63.64%,Strength
+0.00%,The Kiev Major 2017,Jakiro,0,1,1,0.86%,0.86%,100.00%,Intelligence
+25.00%,The Kiev Major 2017,Juggernaut,29,24,53,45.69%,20.69%,41.67%,Agility
+14.66%,The Kiev Major 2017,Keeper of the Light,17,13,30,25.86%,11.21%,53.85%,Intelligence
+0.00%,The Kiev Major 2017,Kunkka,0,4,4,3.45%,3.45%,25.00%,Strength
+37.07%,The Kiev Major 2017,Legion Commander,43,31,74,63.79%,26.72%,51.61%,Strength
+0.00%,The Kiev Major 2017,Leshrac,0,1,1,0.86%,0.86%,0.00%,Intelligence
+0.86%,The Kiev Major 2017,Lich,1,2,3,2.59%,1.72%,50.00%,Intelligence
+20.69%,The Kiev Major 2017,Lifestealer,24,15,39,33.62%,12.93%,40.00%,Strength
+27.59%,The Kiev Major 2017,Lina,32,29,61,52.59%,25.00%,34.48%,Intelligence
+0.00%,The Kiev Major 2017,Lion,0,5,5,4.31%,4.31%,40.00%,Intelligence
+0,The Kiev Major 2017,Lone Druid,0,0,0,0,0,0,Agility
+0.00%,The Kiev Major 2017,Luna,0,2,2,1.72%,1.72%,0.00%,Agility
+6.03%,The Kiev Major 2017,Lycan,7,6,13,11.21%,5.17%,83.33%,Strength
+25.00%,The Kiev Major 2017,Magnus,29,26,55,47.41%,22.41%,50.00%,Strength
+5.17%,The Kiev Major 2017,Medusa,6,10,16,13.79%,8.62%,50.00%,Agility
+11.21%,The Kiev Major 2017,Meepo,13,1,14,12.07%,0.86%,0.00%,Agility
+0,The Kiev Major 2017,Mirana,0,0,0,0,0,0,Agility
+38.79%,The Kiev Major 2017,Monkey King,45,43,88,75.86%,37.07%,39.53%,Agility
+3.45%,The Kiev Major 2017,Morphling,4,10,14,12.07%,8.62%,40.00%,Agility
+36.21%,The Kiev Major 2017,Naga Siren,42,9,51,43.97%,7.76%,66.67%,Agility
+15.52%,The Kiev Major 2017,Natures Prophet,18,14,32,27.59%,12.07%,42.86%,Intelligence
+0,The Kiev Major 2017,Necrophos,0,0,0,0,0,0,Intelligence
+1.72%,The Kiev Major 2017,Night Stalker,2,8,10,8.62%,6.90%,50.00%,Strength
+25.00%,The Kiev Major 2017,Nyx Assassin,29,17,46,39.66%,14.66%,58.82%,Agility
+2.59%,The Kiev Major 2017,Ogre Magi,3,10,13,11.21%,8.62%,60.00%,Intelligence
+12.07%,The Kiev Major 2017,Omniknight,14,18,32,27.59%,15.52%,44.44%,Strength
+0.00%,The Kiev Major 2017,Oracle,0,1,1,0.86%,0.86%,0.00%,Intelligence
+9.48%,The Kiev Major 2017,Outworld Devourer,11,12,23,19.83%,10.34%,33.33%,Intelligence
+2.59%,The Kiev Major 2017,Phantom Assassin,3,10,13,11.21%,8.62%,30.00%,Agility
+0.86%,The Kiev Major 2017,Phantom Lancer,1,4,5,4.31%,3.45%,50.00%,Agility
+1.72%,The Kiev Major 2017,Phoenix,2,14,16,13.79%,12.07%,57.14%,Strength
+13.79%,The Kiev Major 2017,Puck,16,16,32,27.59%,13.79%,50.00%,Intelligence
+1.72%,The Kiev Major 2017,Pudge,2,7,9,7.76%,6.03%,71.43%,Strength
+2.59%,The Kiev Major 2017,Pugna,3,1,4,3.45%,0.86%,0.00%,Intelligence
+1.72%,The Kiev Major 2017,Queen of Pain,2,4,6,5.17%,3.45%,75.00%,Intelligence
+0.00%,The Kiev Major 2017,Razor,0,3,3,2.59%,2.59%,33.33%,Agility
+18.97%,The Kiev Major 2017,Riki,22,21,43,37.07%,18.10%,52.38%,Agility
+12.07%,The Kiev Major 2017,Rubick,14,23,37,31.90%,19.83%,47.83%,Intelligence
+4.31%,The Kiev Major 2017,Sand King,5,19,24,20.69%,16.38%,47.37%,Strength
+0,The Kiev Major 2017,Shadow Demon,0,0,0,0,0,0,Intelligence
+31.90%,The Kiev Major 2017,Shadow Fiend,37,16,53,45.69%,13.79%,62.50%,Agility
+1.72%,The Kiev Major 2017,Shadow Shaman,2,6,8,6.90%,5.17%,33.33%,Intelligence
+6.90%,The Kiev Major 2017,Silencer,8,12,20,17.24%,10.34%,25.00%,Intelligence
+0.00%,The Kiev Major 2017,Skywrath Mage,0,1,1,0.86%,0.86%,100.00%,Intelligence
+6.03%,The Kiev Major 2017,Slardar,7,10,17,14.66%,8.62%,70.00%,Strength
+21.55%,The Kiev Major 2017,Slark,25,18,43,37.07%,15.52%,77.78%,Agility
+1.72%,The Kiev Major 2017,Sniper,2,2,4,3.45%,1.72%,100.00%,Agility
+16.38%,The Kiev Major 2017,Spectre,19,26,45,38.79%,22.41%,53.85%,Agility
+2.59%,The Kiev Major 2017,Spirit Breaker,3,6,9,7.76%,5.17%,33.33%,Strength
+16.38%,The Kiev Major 2017,Storm Spirit,19,13,32,27.59%,11.21%,61.54%,Intelligence
+6.90%,The Kiev Major 2017,Sven,8,8,16,13.79%,6.90%,37.50%,Strength
+,The Kiev Major 2017,Techies,,,,,,,Intelligence
+25.00%,The Kiev Major 2017,Templar Assassin,29,20,49,42.24%,17.24%,75.00%,Agility
+35.34%,The Kiev Major 2017,Terrorblade,41,18,59,50.86%,15.52%,77.78%,Agility
+0.00%,The Kiev Major 2017,Tidehunter,0,1,1,0.86%,0.86%,0.00%,Strength
+11.21%,The Kiev Major 2017,Timbersaw,13,10,23,19.83%,8.62%,70.00%,Strength
+10.34%,The Kiev Major 2017,Tinker,12,6,18,15.52%,5.17%,16.67%,Intelligence
+0.00%,The Kiev Major 2017,Tiny,0,5,5,4.31%,4.31%,20.00%,Strength
+44.83%,The Kiev Major 2017,Treant Protector,52,36,88,75.86%,31.03%,50.00%,Strength
+9.48%,The Kiev Major 2017,Troll Warlord,11,13,24,20.69%,11.21%,38.46%,Agility
+0.00%,The Kiev Major 2017,Tusk,0,10,10,8.62%,8.62%,60.00%,Strength
+0,The Kiev Major 2017,Underlord,0,0,0,0,0,0,Strength
+0.86%,The Kiev Major 2017,Undying,1,5,6,5.17%,4.31%,40.00%,Strength
+14.66%,The Kiev Major 2017,Ursa,17,8,25,21.55%,6.90%,62.50%,Agility
+25.86%,The Kiev Major 2017,Vengeful Spirit,30,32,62,53.45%,27.59%,50.00%,Agility
+1.72%,The Kiev Major 2017,Venomancer,2,2,4,3.45%,1.72%,50.00%,Agility
+0,The Kiev Major 2017,Viper,0,0,0,0,0,0,Agility
+0.86%,The Kiev Major 2017,Visage,1,3,4,3.45%,2.59%,33.33%,Intelligence
+24.14%,The Kiev Major 2017,Warlock,28,42,70,60.34%,36.21%,50.00%,Intelligence
+12.93%,The Kiev Major 2017,Weaver,15,9,24,20.69%,7.76%,55.56%,Agility
+0.86%,The Kiev Major 2017,Windranger,1,6,7,6.03%,5.17%,83.33%,Intelligence
+1.72%,The Kiev Major 2017,Winter Wyvern,2,5,7,6.03%,4.31%,60.00%,Intelligence
+0.86%,The Kiev Major 2017,Witch Doctor,1,9,10,8.62%,7.76%,22.22%,Intelligence
+1.72%,The Kiev Major 2017,Wraith King,2,2,4,3.45%,1.72%,50.00%,Strength
+0.86%,The Kiev Major 2017,Zeus,1,0,1,0.86%,0.00%,0.00%,Intelligence
+54.55%,The Manila Major 2016,Beastmaster,54,35,89,89.90%,35.35%,45.71%,Strength
+48.48%,The Manila Major 2016,Lifestealer,48,35,83,83.84%,35.35%,68.57%,Strength
+42.42%,The Manila Major 2016,Phoenix,42,36,78,78.79%,36.36%,41.67%,Strength
+58.59%,The Manila Major 2016,Io,58,16,74,74.75%,16.16%,62.50%,Strength
+46.46%,The Manila Major 2016,Death Prophet,46,27,73,73.74%,27.27%,66.67%,Intelligence
+41.41%,The Manila Major 2016,Dark Seer,41,28,69,69.70%,28.28%,39.29%,Intelligence
+32.32%,The Manila Major 2016,Earth Spirit,32,32,64,64.65%,32.32%,56.25%,Strength
+36.36%,The Manila Major 2016,Invoker,36,27,63,63.64%,27.27%,51.85%,Intelligence
+34.34%,The Manila Major 2016,Batrider,34,27,61,61.62%,27.27%,44.44%,Intelligence
+42.42%,The Manila Major 2016,Bounty Hunter,42,15,57,57.58%,15.15%,66.67%,Agility
+33.33%,The Manila Major 2016,Lycan,33,22,55,55.56%,22.22%,54.55%,Strength
+36.36%,The Manila Major 2016,Alchemist,36,17,53,53.54%,17.17%,47.06%,Strength
+21.21%,The Manila Major 2016,Dragon Knight,21,30,51,51.52%,30.30%,43.33%,Strength
+12.12%,The Manila Major 2016,Slardar,12,37,49,49.49%,37.37%,59.46%,Strength
+8.08%,The Manila Major 2016,Disruptor,8,40,48,48.48%,40.40%,60.00%,Intelligence
+26.26%,The Manila Major 2016,Tidehunter,26,21,47,47.47%,21.21%,47.62%,Strength
+17.17%,The Manila Major 2016,Lion,17,29,46,46.46%,29.29%,48.28%,Intelligence
+20.20%,The Manila Major 2016,Doom,20,23,43,43.43%,23.23%,47.83%,Strength
+21.21%,The Manila Major 2016,Juggernaut,21,21,42,42.42%,21.21%,47.62%,Agility
+10.10%,The Manila Major 2016,Vengeful Spirit,10,25,35,35.35%,25.25%,44.00%,Agility
+15.15%,The Manila Major 2016,Faceless Void,15,20,35,35.35%,20.20%,55.00%,Agility
+18.18%,The Manila Major 2016,Slark,18,15,33,33.33%,15.15%,46.67%,Agility
+18.18%,The Manila Major 2016,Ancient Apparition,18,14,32,32.32%,14.14%,57.14%,Intelligence
+8.08%,The Manila Major 2016,Dazzle,8,23,31,31.31%,23.23%,39.13%,Intelligence
+19.19%,The Manila Major 2016,Riki,19,11,30,30.30%,11.11%,72.73%,Agility
+14.14%,The Manila Major 2016,Enchantress,14,16,30,30.30%,16.16%,31.25%,Intelligence
+16.16%,The Manila Major 2016,Puck,16,12,28,28.28%,12.12%,16.67%,Intelligence
+21.21%,The Manila Major 2016,Drow Ranger,21,5,26,26.26%,5.05%,60.00%,Agility
+5.05%,The Manila Major 2016,Witch Doctor,5,21,26,26.26%,21.21%,42.86%,Intelligence
+8.08%,The Manila Major 2016,Ember Spirit,8,15,23,23.23%,15.15%,46.67%,Agility
+10.10%,The Manila Major 2016,Axe,10,12,22,22.22%,12.12%,25.00%,Strength
+11.11%,The Manila Major 2016,Weaver,11,11,22,22.22%,11.11%,45.45%,Agility
+5.05%,The Manila Major 2016,Natures Prophet,5,16,21,21.21%,16.16%,43.75%,Intelligence
+7.07%,The Manila Major 2016,Queen of Pain,7,13,20,20.20%,13.13%,46.15%,Intelligence
+10.10%,The Manila Major 2016,Sven,10,9,19,19.19%,9.09%,66.67%,Strength
+5.05%,The Manila Major 2016,Rubick,5,14,19,19.19%,14.14%,42.86%,Intelligence
+14.14%,The Manila Major 2016,Tinker,14,4,18,18.18%,4.04%,75.00%,Intelligence
+8.08%,The Manila Major 2016,Gyrocopter,8,10,18,18.18%,10.10%,40.00%,Agility
+13.13%,The Manila Major 2016,Broodmother,13,4,17,17.17%,4.04%,75.00%,Agility
+6.06%,The Manila Major 2016,Lich,6,8,14,14.14%,8.08%,75.00%,Intelligence
+6.06%,The Manila Major 2016,Night Stalker,6,8,14,14.14%,8.08%,37.50%,Strength
+7.07%,The Manila Major 2016,Lone Druid,7,6,13,13.13%,6.06%,66.67%,Agility
+2.02%,The Manila Major 2016,Timbersaw,2,11,13,13.13%,11.11%,45.45%,Strength
+5.05%,The Manila Major 2016,Phantom Lancer,5,7,12,12.12%,7.07%,42.86%,Agility
+6.06%,The Manila Major 2016,Enigma,6,6,12,12.12%,6.06%,83.33%,Intelligence
+5.05%,The Manila Major 2016,Tusk,5,7,12,12.12%,7.07%,42.86%,Strength
+3.03%,The Manila Major 2016,Elder Titan,3,8,11,11.11%,8.08%,62.50%,Strength
+4.04%,The Manila Major 2016,Clinkz,4,6,10,10.10%,6.06%,16.67%,Agility
+3.03%,The Manila Major 2016,Nyx Assassin,3,7,10,10.10%,7.07%,42.86%,Agility
+5.05%,The Manila Major 2016,Bristleback,5,5,10,10.10%,5.05%,60.00%,Strength
+3.03%,The Manila Major 2016,Leshrac,3,6,9,9.09%,6.06%,66.67%,Intelligence
+1.01%,The Manila Major 2016,Templar Assassin,1,7,8,8.08%,7.07%,42.86%,Agility
+4.04%,The Manila Major 2016,Huskar,4,4,8,8.08%,4.04%,50.00%,Strength
+8.08%,The Manila Major 2016,Meepo,8,0,8,8.08%,0.00%,0.00%,Agility
+3.03%,The Manila Major 2016,Medusa,3,5,8,8.08%,5.05%,80.00%,Agility
+3.03%,The Manila Major 2016,Crystal Maiden,3,4,7,7.07%,4.04%,75.00%,Intelligence
+3.03%,The Manila Major 2016,Windranger,3,4,7,7.07%,4.04%,50.00%,Intelligence
+4.04%,The Manila Major 2016,Viper,4,3,7,7.07%,3.03%,66.67%,Agility
+3.03%,The Manila Major 2016,Chen,3,4,7,7.07%,4.04%,50.00%,Intelligence
+2.02%,The Manila Major 2016,Spectre,2,5,7,7.07%,5.05%,40.00%,Agility
+4.04%,The Manila Major 2016,Ursa,4,3,7,7.07%,3.03%,66.67%,Agility
+1.01%,The Manila Major 2016,Oracle,1,6,7,7.07%,6.06%,50.00%,Intelligence
+2.02%,The Manila Major 2016,Anti-Mage,2,4,6,6.06%,4.04%,0.00%,Agility
+2.02%,The Manila Major 2016,Mirana,2,4,6,6.06%,4.04%,25.00%,Agility
+4.04%,The Manila Major 2016,Morphling,4,2,6,6.06%,2.02%,50.00%,Agility
+3.03%,The Manila Major 2016,Razor,3,3,6,6.06%,3.03%,66.67%,Agility
+3.03%,The Manila Major 2016,Clockwerk,3,3,6,6.06%,3.03%,66.67%,Strength
+3.03%,The Manila Major 2016,Magnus,3,3,6,6.06%,3.03%,33.33%,Strength
+3.03%,The Manila Major 2016,Terrorblade,3,3,6,6.06%,3.03%,66.67%,Agility
+1.01%,The Manila Major 2016,Winter Wyvern,1,5,6,6.06%,5.05%,60.00%,Intelligence
+2.02%,The Manila Major 2016,Bane,2,3,5,5.05%,3.03%,33.33%,Intelligence
+2.02%,The Manila Major 2016,Kunkka,2,3,5,5.05%,3.03%,33.33%,Strength
+3.03%,The Manila Major 2016,Shadow Demon,3,2,5,5.05%,2.02%,100.00%,Intelligence
+1.01%,The Manila Major 2016,Naga Siren,1,4,5,5.05%,4.04%,50.00%,Agility
+1.01%,The Manila Major 2016,Earthshaker,1,3,4,4.04%,3.03%,33.33%,Strength
+2.02%,The Manila Major 2016,Tiny,2,2,4,4.04%,2.02%,0.00%,Strength
+0.00%,The Manila Major 2016,Shadow Fiend,0,3,3,3.03%,3.03%,33.33%,Agility
+0.00%,The Manila Major 2016,Sand King,0,2,2,2.02%,2.02%,50.00%,Strength
+0.00%,The Manila Major 2016,Shadow Shaman,0,2,2,2.02%,2.02%,0.00%,Intelligence
+1.01%,The Manila Major 2016,Necrophos,1,1,2,2.02%,1.01%,100.00%,Intelligence
+0.00%,The Manila Major 2016,Venomancer,0,2,2,2.02%,2.02%,0.00%,Agility
+0.00%,The Manila Major 2016,Phantom Assassin,0,2,2,2.02%,2.02%,0.00%,Agility
+0.00%,The Manila Major 2016,Keeper of the Light,0,2,2,2.02%,2.02%,100.00%,Intelligence
+0.00%,The Manila Major 2016,Centaur Warrunner,0,2,2,2.02%,2.02%,50.00%,Strength
+1.01%,The Manila Major 2016,Abaddon,1,1,2,2.02%,1.01%,100.00%,Strength
+1.01%,The Manila Major 2016,Storm Spirit,1,0,1,1.01%,0.00%,0.00%,Intelligence
+0.00%,The Manila Major 2016,Lina,0,1,1,1.01%,1.01%,100.00%,Intelligence
+0.00%,The Manila Major 2016,Wraith King,0,1,1,1.01%,1.01%,100.00%,Strength
+1.01%,The Manila Major 2016,Pugna,1,0,1,1.01%,0.00%,0.00%,Intelligence
+0.00%,The Manila Major 2016,Jakiro,0,1,1,1.01%,1.01%,100.00%,Intelligence
+0.00%,The Manila Major 2016,Spirit Breaker,0,1,1,1.01%,1.01%,0.00%,Strength
+0.00%,The Manila Major 2016,Silencer,0,1,1,1.01%,1.01%,0.00%,Intelligence
+0.00%,The Manila Major 2016,Brewmaster,0,1,1,1.01%,1.01%,0.00%,Strength
+0.00%,The Manila Major 2016,Treant Protector,0,1,1,1.01%,1.01%,0.00%,Strength
+0.00%,The Manila Major 2016,Undying,0,1,1,1.01%,1.01%,0.00%,Strength
+0.00%,The Manila Major 2016,Visage,0,1,1,1.01%,1.01%,0.00%,Intelligence
+0.00%,The Manila Major 2016,Skywrath Mage,0,1,1,1.01%,1.01%,100.00%,Intelligence
+0.00%,The Manila Major 2016,Legion Commander,0,1,1,1.01%,1.01%,0.00%,Strength
+,The Manila Major 2016,Monkey King,,,,,,,Agility
+,The Manila Major 2016,Underlord,,,,,,,Strength
+,The Manila Major 2016,Arc Warden,,,,,,,Agility
+0,The Manila Major 2016,Chaos Knight,0,0,0,0,0,0,Strength
+0,The Manila Major 2016,Omniknight,0,0,0,0,0,0,Strength
+0,The Manila Major 2016,Pudge,0,0,0,0,0,0,Strength
+0,The Manila Major 2016,Bloodseeker,0,0,0,0,0,0,Agility
+0,The Manila Major 2016,Luna,0,0,0,0,0,0,Agility
+0,The Manila Major 2016,Sniper,0,0,0,0,0,0,Agility
+0,The Manila Major 2016,Troll Warlord,0,0,0,0,0,0,Agility
+0,The Manila Major 2016,Ogre Magi,0,0,0,0,0,0,Intelligence
+0,The Manila Major 2016,Outworld Devourer,0,0,0,0,0,0,Intelligence
+0,The Manila Major 2016,Techies,0,0,0,0,0,0,Intelligence
+0,The Manila Major 2016,Warlock,0,0,0,0,0,0,Intelligence
+0,The Manila Major 2016,Zeus,0,0,0,0,0,0,Intelligence
+72.53%,The Shanghai Major 2016,Earth Spirit,66,20,86,94.51%,21.98%,55.00%,Strength
+38.46%,The Shanghai Major 2016,Invoker,35,37,72,79.12%,40.66%,56.76%,Intelligence
+40.66%,The Shanghai Major 2016,Enchantress,37,33,70,76.92%,36.26%,54.55%,Intelligence
+31.87%,The Shanghai Major 2016,Natures Prophet,29,36,65,71.43%,39.56%,50.00%,Intelligence
+43.96%,The Shanghai Major 2016,Outworld Devourer,40,24,64,70.33%,26.37%,62.50%,Intelligence
+49.45%,The Shanghai Major 2016,Chen,45,18,63,69.23%,19.78%,50.00%,Intelligence
+46.15%,The Shanghai Major 2016,Lone Druid,42,19,61,67.03%,20.88%,63.16%,Agility
+19.78%,The Shanghai Major 2016,Vengeful Spirit,18,36,54,59.34%,39.56%,44.44%,Agility
+24.18%,The Shanghai Major 2016,Beastmaster,22,30,52,57.14%,32.97%,53.33%,Strength
+29.67%,The Shanghai Major 2016,Io,27,24,51,56.04%,26.37%,45.83%,Strength
+30.77%,The Shanghai Major 2016,Batrider,28,21,49,53.85%,23.08%,42.86%,Intelligence
+21.98%,The Shanghai Major 2016,Sven,20,24,44,48.35%,26.37%,50.00%,Strength
+40.66%,The Shanghai Major 2016,Bounty Hunter,37,7,44,48.35%,7.69%,42.86%,Agility
+36.26%,The Shanghai Major 2016,Broodmother,33,9,42,46.15%,9.89%,33.33%,Agility
+29.67%,The Shanghai Major 2016,Gyrocopter,27,15,42,46.15%,16.48%,46.67%,Agility
+19.78%,The Shanghai Major 2016,Faceless Void,18,23,41,45.05%,25.27%,43.48%,Agility
+24.18%,The Shanghai Major 2016,Dark Seer,22,17,39,42.86%,18.68%,52.94%,Intelligence
+14.29%,The Shanghai Major 2016,Witch Doctor,13,25,38,41.76%,27.47%,40.00%,Intelligence
+6.59%,The Shanghai Major 2016,Lion,6,31,37,40.66%,34.07%,64.52%,Intelligence
+15.38%,The Shanghai Major 2016,Tidehunter,14,21,35,38.46%,23.08%,61.90%,Strength
+19.78%,The Shanghai Major 2016,Enigma,18,17,35,38.46%,18.68%,70.59%,Intelligence
+21.98%,The Shanghai Major 2016,Ursa,20,14,34,37.36%,15.38%,64.29%,Agility
+19.78%,The Shanghai Major 2016,Death Prophet,18,14,32,35.16%,15.38%,50.00%,Intelligence
+10.99%,The Shanghai Major 2016,Phoenix,10,21,31,34.07%,23.08%,52.38%,Strength
+12.09%,The Shanghai Major 2016,Tusk,11,19,30,32.97%,20.88%,52.63%,Strength
+14.29%,The Shanghai Major 2016,Spectre,13,16,29,31.87%,17.58%,62.50%,Agility
+15.38%,The Shanghai Major 2016,Ember Spirit,14,15,29,31.87%,16.48%,33.33%,Agility
+17.58%,The Shanghai Major 2016,Puck,16,12,28,30.77%,13.19%,41.67%,Intelligence
+16.48%,The Shanghai Major 2016,Juggernaut,15,11,26,28.57%,12.09%,45.45%,Agility
+12.09%,The Shanghai Major 2016,Slark,11,14,25,27.47%,15.38%,71.43%,Agility
+15.38%,The Shanghai Major 2016,Zeus,14,10,24,26.37%,10.99%,40.00%,Intelligence
+13.19%,The Shanghai Major 2016,Phantom Lancer,12,11,23,25.27%,12.09%,54.55%,Agility
+13.19%,The Shanghai Major 2016,Drow Ranger,12,10,22,24.18%,10.99%,60.00%,Agility
+7.69%,The Shanghai Major 2016,Tiny,7,13,20,21.98%,14.29%,53.85%,Strength
+8.79%,The Shanghai Major 2016,Night Stalker,8,11,19,20.88%,12.09%,36.36%,Strength
+5.49%,The Shanghai Major 2016,Disruptor,5,14,19,20.88%,15.38%,64.29%,Intelligence
+6.59%,The Shanghai Major 2016,Rubick,6,12,18,19.78%,13.19%,50.00%,Intelligence
+9.89%,The Shanghai Major 2016,Razor,9,8,17,18.68%,8.79%,25.00%,Agility
+14.29%,The Shanghai Major 2016,Lycan,13,4,17,18.68%,4.40%,75.00%,Strength
+7.69%,The Shanghai Major 2016,Morphling,7,9,16,17.58%,9.89%,22.22%,Agility
+7.69%,The Shanghai Major 2016,Mirana,7,7,14,15.38%,7.69%,57.14%,Agility
+5.49%,The Shanghai Major 2016,Lina,5,9,14,15.38%,9.89%,33.33%,Intelligence
+7.69%,The Shanghai Major 2016,Queen of Pain,7,6,13,14.29%,6.59%,50.00%,Intelligence
+4.40%,The Shanghai Major 2016,Winter Wyvern,4,9,13,14.29%,9.89%,33.33%,Intelligence
+5.49%,The Shanghai Major 2016,Clinkz,5,7,12,13.19%,7.69%,71.43%,Agility
+3.30%,The Shanghai Major 2016,Crystal Maiden,3,8,11,12.09%,8.79%,50.00%,Intelligence
+2.20%,The Shanghai Major 2016,Doom,2,9,11,12.09%,9.89%,55.56%,Strength
+3.30%,The Shanghai Major 2016,Oracle,3,8,11,12.09%,8.79%,37.50%,Intelligence
+0.00%,The Shanghai Major 2016,Earthshaker,0,10,10,10.99%,10.99%,30.00%,Strength
+7.69%,The Shanghai Major 2016,Viper,7,3,10,10.99%,3.30%,33.33%,Agility
+6.59%,The Shanghai Major 2016,Chaos Knight,6,4,10,10.99%,4.40%,50.00%,Strength
+5.49%,The Shanghai Major 2016,Anti-Mage,5,4,9,9.89%,4.40%,50.00%,Agility
+3.30%,The Shanghai Major 2016,Dazzle,3,6,9,9.89%,6.59%,33.33%,Intelligence
+2.20%,The Shanghai Major 2016,Nyx Assassin,2,7,9,9.89%,7.69%,71.43%,Agility
+3.30%,The Shanghai Major 2016,Bane,3,5,8,8.79%,5.49%,40.00%,Intelligence
+3.30%,The Shanghai Major 2016,Templar Assassin,3,4,7,7.69%,4.40%,75.00%,Agility
+4.40%,The Shanghai Major 2016,Leshrac,4,3,7,7.69%,3.30%,33.33%,Intelligence
+1.10%,The Shanghai Major 2016,Weaver,1,6,7,7.69%,6.59%,33.33%,Agility
+4.40%,The Shanghai Major 2016,Brewmaster,4,3,7,7.69%,3.30%,66.67%,Strength
+2.20%,The Shanghai Major 2016,Shadow Shaman,2,4,6,6.59%,4.40%,25.00%,Intelligence
+2.20%,The Shanghai Major 2016,Pugna,2,4,6,6.59%,4.40%,25.00%,Intelligence
+1.10%,The Shanghai Major 2016,Windranger,1,4,5,5.49%,4.40%,100.00%,Intelligence
+1.10%,The Shanghai Major 2016,Lich,1,3,4,4.40%,3.30%,66.67%,Intelligence
+0.00%,The Shanghai Major 2016,Warlock,0,4,4,4.40%,4.40%,50.00%,Intelligence
+1.10%,The Shanghai Major 2016,Spirit Breaker,1,3,4,4.40%,3.30%,0.00%,Strength
+1.10%,The Shanghai Major 2016,Silencer,1,3,4,4.40%,3.30%,33.33%,Intelligence
+0.00%,The Shanghai Major 2016,Visage,0,4,4,4.40%,4.40%,50.00%,Intelligence
+0.00%,The Shanghai Major 2016,Bristleback,0,4,4,4.40%,4.40%,25.00%,Strength
+0.00%,The Shanghai Major 2016,Sand King,0,3,3,3.30%,3.30%,33.33%,Strength
+2.20%,The Shanghai Major 2016,Slardar,2,1,3,3.30%,1.10%,0.00%,Strength
+0.00%,The Shanghai Major 2016,Necrophos,0,3,3,3.30%,3.30%,0.00%,Intelligence
+0.00%,The Shanghai Major 2016,Lifestealer,0,3,3,3.30%,3.30%,0.00%,Strength
+1.10%,The Shanghai Major 2016,Treant Protector,1,2,3,3.30%,2.20%,100.00%,Strength
+0.00%,The Shanghai Major 2016,Naga Siren,0,3,3,3.30%,3.30%,33.33%,Agility
+2.20%,The Shanghai Major 2016,Medusa,2,1,3,3.30%,1.10%,100.00%,Agility
+0.00%,The Shanghai Major 2016,Legion Commander,0,3,3,3.30%,3.30%,33.33%,Strength
+2.20%,The Shanghai Major 2016,Terrorblade,2,1,3,3.30%,1.10%,0.00%,Agility
+1.10%,The Shanghai Major 2016,Dragon Knight,1,1,2,2.20%,1.10%,0.00%,Strength
+0.00%,The Shanghai Major 2016,Jakiro,0,2,2,2.20%,2.20%,0.00%,Intelligence
+0.00%,The Shanghai Major 2016,Undying,0,2,2,2.20%,2.20%,50.00%,Strength
+0.00%,The Shanghai Major 2016,Elder Titan,0,2,2,2.20%,2.20%,100.00%,Strength
+1.10%,The Shanghai Major 2016,Wraith King,1,0,1,1.10%,0.00%,0.00%,Strength
+0.00%,The Shanghai Major 2016,Phantom Assassin,0,1,1,1.10%,1.10%,0.00%,Agility
+0.00%,The Shanghai Major 2016,Luna,0,1,1,1.10%,1.10%,0.00%,Agility
+1.10%,The Shanghai Major 2016,Ancient Apparition,1,0,1,1.10%,0.00%,0.00%,Intelligence
+0.00%,The Shanghai Major 2016,Alchemist,0,1,1,1.10%,1.10%,0.00%,Strength
+0.00%,The Shanghai Major 2016,Shadow Demon,0,1,1,1.10%,1.10%,0.00%,Intelligence
+0.00%,The Shanghai Major 2016,Ogre Magi,0,1,1,1.10%,1.10%,0.00%,Intelligence
+0.00%,The Shanghai Major 2016,Centaur Warrunner,0,1,1,1.10%,1.10%,0.00%,Strength
+0.00%,The Shanghai Major 2016,Abaddon,0,1,1,1.10%,1.10%,100.00%,Strength
+,The Shanghai Major 2016,Monkey King,,,,,,,Agility
+,The Shanghai Major 2016,Underlord,,,,,,,Strength
+,The Shanghai Major 2016,Arc Warden,,,,,,,Agility
+0,The Shanghai Major 2016,Axe,0,0,0,0,0,0,Strength
+0,The Shanghai Major 2016,Clockwerk,0,0,0,0,0,0,Strength
+0,The Shanghai Major 2016,Huskar,0,0,0,0,0,0,Strength
+0,The Shanghai Major 2016,Kunkka,0,0,0,0,0,0,Strength
+0,The Shanghai Major 2016,Magnus,0,0,0,0,0,0,Strength
+0,The Shanghai Major 2016,Omniknight,0,0,0,0,0,0,Strength
+0,The Shanghai Major 2016,Pudge,0,0,0,0,0,0,Strength
+0,The Shanghai Major 2016,Timbersaw,0,0,0,0,0,0,Strength
+0,The Shanghai Major 2016,Bloodseeker,0,0,0,0,0,0,Agility
+0,The Shanghai Major 2016,Meepo,0,0,0,0,0,0,Agility
+0,The Shanghai Major 2016,Riki,0,0,0,0,0,0,Agility
+0,The Shanghai Major 2016,Shadow Fiend,0,0,0,0,0,0,Agility
+0,The Shanghai Major 2016,Sniper,0,0,0,0,0,0,Agility
+0,The Shanghai Major 2016,Troll Warlord,0,0,0,0,0,0,Agility
+0,The Shanghai Major 2016,Venomancer,0,0,0,0,0,0,Agility
+0,The Shanghai Major 2016,Keeper of the Light,0,0,0,0,0,0,Intelligence
+0,The Shanghai Major 2016,Skywrath Mage,0,0,0,0,0,0,Intelligence
+0,The Shanghai Major 2016,Storm Spirit,0,0,0,0,0,0,Intelligence
+0,The Shanghai Major 2016,Techies,0,0,0,0,0,0,Intelligence
+0,The Shanghai Major 2016,Tinker,0,0,0,0,0,0,Intelligence
+56.02%,The International 2017,Abaddon,0,2,2,1.05%,1.05%,100.00%,Strength
+45.55%,The International 2017,Alchemist,21,14,35,18.32%,7.33%,57.14%,Strength
+54.45%,The International 2017,Ancient Apparition,31,33,64,33.51%,17.28%,60.61%,Intelligence
+40.84%,The International 2017,Anti-Mage,36,16,52,27.23%,8.38%,50.00%,Agility
+20.42%,The International 2017,Arc Warden,7,3,10,5.24%,1.57%,33.33%,Agility
+31.41%,The International 2017,Axe,4,8,12,6.28%,4.19%,62.50%,Strength
+0.00%,The International 2017,Bane,0,0,0,0.00%,0.00%,0.00%,Intelligence
+33.51%,The International 2017,Batrider,87,62,149,78.01%,32.46%,46.77%,Intelligence
+13.09%,The International 2017,Beastmaster,5,7,12,6.28%,3.66%,71.43%,Strength
+21.99%,The International 2017,Bloodseeker,27,17,44,23.04%,8.90%,41.18%,Agility
+22.51%,The International 2017,Bounty Hunter,5,8,13,6.81%,4.19%,50.00%,Agility
+36.13%,The International 2017,Brewmaster,5,7,12,6.28%,3.66%,57.14%,Strength
+27.23%,The International 2017,Bristleback,14,18,32,16.75%,9.42%,55.56%,Strength
+20.94%,The International 2017,Broodmother,25,6,31,16.23%,3.14%,66.67%,Agility
+22.51%,The International 2017,Centaur Warrunner,2,8,10,5.24%,4.19%,50.00%,Strength
+16.23%,The International 2017,Chaos Knight,10,12,22,11.52%,6.28%,33.33%,Strength
+19.37%,The International 2017,Chen,2,2,4,2.09%,1.05%,50.00%,Intelligence
+19.90%,The International 2017,Clinkz,1,4,5,2.62%,2.09%,50.00%,Agility
+16.23%,The International 2017,Clockwerk,15,33,48,25.13%,17.28%,21.21%,Strength
+15.71%,The International 2017,Crystal Maiden,0,11,11,5.76%,5.76%,45.45%,Intelligence
+17.80%,The International 2017,Dark Seer,33,28,61,31.94%,14.66%,46.43%,Intelligence
+17.28%,The International 2017,Dazzle,5,27,32,16.75%,14.14%,81.48%,Intelligence
+15.18%,The International 2017,Death Prophet,52,29,81,42.41%,15.18%,51.72%,Intelligence
+20.42%,The International 2017,Disruptor,8,25,33,17.28%,13.09%,60.00%,Intelligence
+18.85%,The International 2017,Doom,2,14,16,8.38%,7.33%,57.14%,Strength
+10.99%,The International 2017,Dragon Knight,20,20,40,20.94%,10.47%,40.00%,Strength
+9.42%,The International 2017,Drow Ranger,39,16,55,28.80%,8.38%,43.75%,Agility
+7.85%,The International 2017,Earth Spirit,31,40,71,37.17%,20.94%,57.50%,Strength
+14.14%,The International 2017,Earthshaker,39,70,109,57.07%,36.65%,60.00%,Strength
+11.52%,The International 2017,Elder Titan,3,6,9,4.71%,3.14%,50.00%,Strength
+3.14%,The International 2017,Ember Spirit,17,25,42,21.99%,13.09%,52.00%,Agility
+13.61%,The International 2017,Enchantress,6,7,13,6.81%,3.66%,57.14%,Intelligence
+8.90%,The International 2017,Enigma,25,15,40,20.94%,7.85%,33.33%,Intelligence
+13.09%,The International 2017,Faceless Void,42,46,88,46.07%,24.08%,39.13%,Agility
+10.47%,The International 2017,Gyrocopter,4,3,7,3.66%,1.57%,33.33%,Agility
+12.04%,The International 2017,Huskar,17,3,20,10.47%,1.57%,100.00%,Strength
+5.24%,The International 2017,Invoker,22,21,43,22.51%,10.99%,47.62%,Intelligence
+7.85%,The International 2017,Io,69,15,84,43.98%,7.85%,46.67%,Strength
+8.90%,The International 2017,Jakiro,1,5,6,3.14%,2.62%,20.00%,Intelligence
+10.99%,The International 2017,Juggernaut,5,12,17,8.90%,6.28%,41.67%,Agility
+10.47%,The International 2017,Keeper of the Light,23,17,40,20.94%,8.90%,47.06%,Intelligence
+3.14%,The International 2017,Kunkka,30,32,62,32.46%,16.75%,56.25%,Strength
+11.52%,The International 2017,Legion Commander,21,30,51,26.70%,15.71%,43.33%,Strength
+4.19%,The International 2017,Leshrac,1,5,6,3.14%,2.62%,80.00%,Intelligence
+6.81%,The International 2017,Lich,60,44,104,54.45%,23.04%,50.00%,Intelligence
+2.62%,The International 2017,Lifestealer,12,14,26,13.61%,7.33%,50.00%,Strength
+7.33%,The International 2017,Lina,9,15,24,12.57%,7.85%,26.67%,Intelligence
+9.95%,The International 2017,Lion,1,0,1,0.52%,0.00%,0.00%,Intelligence
+12.57%,The International 2017,Lone Druid,16,10,26,13.61%,5.24%,30.00%,Agility
+13.09%,The International 2017,Luna,3,7,10,5.24%,3.66%,42.86%,Agility
+7.33%,The International 2017,Lycan,43,43,86,45.03%,22.51%,58.14%,Strength
+1.05%,The International 2017,Magnus,8,15,23,12.04%,7.85%,66.67%,Strength
+7.85%,The International 2017,Medusa,14,10,24,12.57%,5.24%,80.00%,Agility
+6.28%,The International 2017,Meepo,10,1,11,5.76%,0.52%,0.00%,Agility
+8.38%,The International 2017,Mirana,2,25,27,14.14%,13.09%,56.00%,Agility
+5.24%,The International 2017,Monkey King,3,12,15,7.85%,6.28%,33.33%,Agility
+5.76%,The International 2017,Morphling,7,12,19,9.95%,6.28%,58.33%,Agility
+4.71%,The International 2017,Naga Siren,10,16,26,13.61%,8.38%,62.50%,Agility
+2.09%,The International 2017,Natures Prophet,37,30,67,35.08%,15.71%,60.00%,Intelligence
+7.33%,The International 2017,Necrophos,18,31,49,25.65%,16.23%,61.29%,Intelligence
+4.19%,The International 2017,Night Stalker,107,51,158,82.72%,26.70%,49.02%,Strength
+5.24%,The International 2017,Nyx Assassin,104,45,149,78.01%,23.56%,71.11%,Agility
+2.62%,The International 2017,Ogre Magi,6,5,11,5.76%,2.62%,100.00%,Intelligence
+1.05%,The International 2017,Omniknight,4,4,8,4.19%,2.09%,50.00%,Strength
+5.76%,The International 2017,Oracle,6,28,34,17.80%,14.66%,50.00%,Intelligence
+8.90%,The International 2017,Outworld Devourer,8,6,14,7.33%,3.14%,16.67%,Intelligence
+3.66%,The International 2017,Phantom Assassin,4,7,11,5.76%,3.66%,57.14%,Agility
+2.62%,The International 2017,Phantom Lancer,38,27,65,34.03%,14.14%,51.85%,Agility
+1.05%,The International 2017,Phoenix,0,4,4,2.09%,2.09%,75.00%,Strength
+0.00%,The International 2017,Puck,78,61,139,72.77%,31.94%,47.54%,Intelligence
+0.00%,The International 2017,Pudge,0,1,1,0.52%,0.52%,0.00%,Strength
+1.57%,The International 2017,Pugna,26,16,42,21.99%,8.38%,43.75%,Intelligence
+4.19%,The International 2017,Queen of Pain,40,40,80,41.88%,20.94%,45.00%,Intelligence
+3.66%,The International 2017,Razor,15,11,26,13.61%,5.76%,36.36%,Agility
+3.14%,The International 2017,Riki,1,4,5,2.62%,2.09%,25.00%,Agility
+2.62%,The International 2017,Rubick,10,28,38,19.90%,14.66%,42.86%,Intelligence
+2.09%,The International 2017,Sand King,25,69,94,49.21%,36.13%,34.78%,Strength
+2.62%,The International 2017,Shadow Demon,1,8,9,4.71%,4.19%,62.50%,Intelligence
+2.62%,The International 2017,Shadow Fiend,4,7,11,5.76%,3.66%,28.57%,Agility
+0.00%,The International 2017,Shadow Shaman,6,36,42,21.99%,18.85%,52.78%,Intelligence
+2.09%,The International 2017,Silencer,43,32,75,39.27%,16.75%,31.25%,Intelligence
+2.09%,The International 2017,Skywrath Mage,0,1,1,0.52%,0.52%,0.00%,Intelligence
+5.24%,The International 2017,Slardar,0,15,15,7.85%,7.85%,46.67%,Strength
+3.14%,The International 2017,Slark,3,2,5,2.62%,1.05%,50.00%,Agility
+1.57%,The International 2017,Sniper,7,6,13,6.81%,3.14%,83.33%,Agility
+0.00%,The International 2017,Spectre,0,0,0,0.00%,0.00%,0.00%,Agility
+1.05%,The International 2017,Spirit Breaker,0,15,15,7.85%,7.85%,53.33%,Strength
+3.66%,The International 2017,Storm Spirit,22,11,33,17.28%,5.76%,72.73%,Intelligence
+0.52%,The International 2017,Sven,64,39,103,53.93%,20.42%,64.10%,Strength
+,The International 2017,Techies,,,,,,,Intelligence
+1.57%,The International 2017,Templar Assassin,19,12,31,16.23%,6.28%,50.00%,Agility
+2.09%,The International 2017,Terrorblade,20,14,34,17.80%,7.33%,50.00%,Agility
+1.57%,The International 2017,Tidehunter,14,16,30,15.71%,8.38%,50.00%,Strength
+2.09%,The International 2017,Timbersaw,11,14,25,13.09%,7.33%,35.71%,Strength
+0.52%,The International 2017,Tinker,11,9,20,10.47%,4.71%,22.22%,Intelligence
+0.00%,The International 2017,Tiny,0,0,0,0.00%,0.00%,0.00%,Strength
+0.52%,The International 2017,Treant Protector,1,2,3,1.57%,1.05%,0.00%,Strength
+0.52%,The International 2017,Troll Warlord,15,23,38,19.90%,12.04%,47.83%,Agility
+0.52%,The International 2017,Tusk,2,19,21,10.99%,9.95%,42.11%,Strength
+0.52%,The International 2017,Underlord,0,3,3,1.57%,1.57%,33.33%,Strength
+1.57%,The International 2017,Undying,0,1,1,0.52%,0.52%,0.00%,Strength
+1.05%,The International 2017,Ursa,17,18,35,18.32%,9.42%,61.11%,Agility
+0.00%,The International 2017,Vengeful Spirit,0,3,3,1.57%,1.57%,33.33%,Agility
+0.00%,The International 2017,Venomancer,34,28,62,32.46%,14.66%,60.71%,Agility
+0.52%,The International 2017,Viper,24,7,31,16.23%,3.66%,42.86%,Agility
+0.00%,The International 2017,Visage,5,17,22,11.52%,8.90%,23.53%,Intelligence
+0.00%,The International 2017,Warlock,1,5,6,3.14%,2.62%,40.00%,Intelligence
+0.00%,The International 2017,Weaver,29,27,56,29.32%,14.14%,48.15%,Agility
+0.00%,The International 2017,Windranger,0,2,2,1.05%,1.05%,0.00%,Intelligence
+0.52%,The International 2017,Winter Wyvern,13,20,33,17.28%,10.47%,55.00%,Intelligence
+0.00%,The International 2017,Witch Doctor,4,20,24,12.57%,10.47%,40.00%,Intelligence
+0.00%,The International 2017,Wraith King,0,0,0,0.00%,0.00%,0.00%,Strength
+0.00%,The International 2017,Zeus,3,4,7,3.66%,2.09%,50.00%,Intelligence
