@@ -1016,116 +1016,116 @@ ban_rate,event,hero,no_bans,no_picks,no_picks_bans,pick_ban_rate,pick_rate,win_r
 0,The Shanghai Major 2016,Storm Spirit,0,0,0,0,0,0,Intelligence
 0,The Shanghai Major 2016,Techies,0,0,0,0,0,0,Intelligence
 0,The Shanghai Major 2016,Tinker,0,0,0,0,0,0,Intelligence
-56.02%,The International 2017,Abaddon,0,2,2,1.05%,1.05%,100.00%,Strength
-45.55%,The International 2017,Alchemist,21,14,35,18.32%,7.33%,57.14%,Strength
-54.45%,The International 2017,Ancient Apparition,31,33,64,33.51%,17.28%,60.61%,Intelligence
-40.84%,The International 2017,Anti-Mage,36,16,52,27.23%,8.38%,50.00%,Agility
-20.42%,The International 2017,Arc Warden,7,3,10,5.24%,1.57%,33.33%,Agility
-31.41%,The International 2017,Axe,4,8,12,6.28%,4.19%,62.50%,Strength
+0.00%,The International 2017,Abaddon,0,2,2,1.05%,1.05%,100.00%,Strength
+10.99%,The International 2017,Alchemist,21,14,35,18.32%,7.33%,57.14%,Strength
+16.23%,The International 2017,Ancient Apparition,31,33,64,33.51%,17.28%,60.61%,Intelligence
+18.85%,The International 2017,Anti-Mage,36,16,52,27.23%,8.38%,50.00%,Agility
+3.66%,The International 2017,Arc Warden,7,3,10,5.24%,1.57%,33.33%,Agility
+2.09%,The International 2017,Axe,4,8,12,6.28%,4.19%,62.50%,Strength
 0.00%,The International 2017,Bane,0,0,0,0.00%,0.00%,0.00%,Intelligence
-33.51%,The International 2017,Batrider,87,62,149,78.01%,32.46%,46.77%,Intelligence
-13.09%,The International 2017,Beastmaster,5,7,12,6.28%,3.66%,71.43%,Strength
-21.99%,The International 2017,Bloodseeker,27,17,44,23.04%,8.90%,41.18%,Agility
-22.51%,The International 2017,Bounty Hunter,5,8,13,6.81%,4.19%,50.00%,Agility
-36.13%,The International 2017,Brewmaster,5,7,12,6.28%,3.66%,57.14%,Strength
-27.23%,The International 2017,Bristleback,14,18,32,16.75%,9.42%,55.56%,Strength
-20.94%,The International 2017,Broodmother,25,6,31,16.23%,3.14%,66.67%,Agility
-22.51%,The International 2017,Centaur Warrunner,2,8,10,5.24%,4.19%,50.00%,Strength
-16.23%,The International 2017,Chaos Knight,10,12,22,11.52%,6.28%,33.33%,Strength
-19.37%,The International 2017,Chen,2,2,4,2.09%,1.05%,50.00%,Intelligence
-19.90%,The International 2017,Clinkz,1,4,5,2.62%,2.09%,50.00%,Agility
-16.23%,The International 2017,Clockwerk,15,33,48,25.13%,17.28%,21.21%,Strength
-15.71%,The International 2017,Crystal Maiden,0,11,11,5.76%,5.76%,45.45%,Intelligence
-17.80%,The International 2017,Dark Seer,33,28,61,31.94%,14.66%,46.43%,Intelligence
-17.28%,The International 2017,Dazzle,5,27,32,16.75%,14.14%,81.48%,Intelligence
-15.18%,The International 2017,Death Prophet,52,29,81,42.41%,15.18%,51.72%,Intelligence
-20.42%,The International 2017,Disruptor,8,25,33,17.28%,13.09%,60.00%,Intelligence
-18.85%,The International 2017,Doom,2,14,16,8.38%,7.33%,57.14%,Strength
-10.99%,The International 2017,Dragon Knight,20,20,40,20.94%,10.47%,40.00%,Strength
-9.42%,The International 2017,Drow Ranger,39,16,55,28.80%,8.38%,43.75%,Agility
-7.85%,The International 2017,Earth Spirit,31,40,71,37.17%,20.94%,57.50%,Strength
-14.14%,The International 2017,Earthshaker,39,70,109,57.07%,36.65%,60.00%,Strength
-11.52%,The International 2017,Elder Titan,3,6,9,4.71%,3.14%,50.00%,Strength
-3.14%,The International 2017,Ember Spirit,17,25,42,21.99%,13.09%,52.00%,Agility
-13.61%,The International 2017,Enchantress,6,7,13,6.81%,3.66%,57.14%,Intelligence
-8.90%,The International 2017,Enigma,25,15,40,20.94%,7.85%,33.33%,Intelligence
-13.09%,The International 2017,Faceless Void,42,46,88,46.07%,24.08%,39.13%,Agility
-10.47%,The International 2017,Gyrocopter,4,3,7,3.66%,1.57%,33.33%,Agility
-12.04%,The International 2017,Huskar,17,3,20,10.47%,1.57%,100.00%,Strength
-5.24%,The International 2017,Invoker,22,21,43,22.51%,10.99%,47.62%,Intelligence
-7.85%,The International 2017,Io,69,15,84,43.98%,7.85%,46.67%,Strength
-8.90%,The International 2017,Jakiro,1,5,6,3.14%,2.62%,20.00%,Intelligence
-10.99%,The International 2017,Juggernaut,5,12,17,8.90%,6.28%,41.67%,Agility
-10.47%,The International 2017,Keeper of the Light,23,17,40,20.94%,8.90%,47.06%,Intelligence
-3.14%,The International 2017,Kunkka,30,32,62,32.46%,16.75%,56.25%,Strength
-11.52%,The International 2017,Legion Commander,21,30,51,26.70%,15.71%,43.33%,Strength
-4.19%,The International 2017,Leshrac,1,5,6,3.14%,2.62%,80.00%,Intelligence
-6.81%,The International 2017,Lich,60,44,104,54.45%,23.04%,50.00%,Intelligence
-2.62%,The International 2017,Lifestealer,12,14,26,13.61%,7.33%,50.00%,Strength
-7.33%,The International 2017,Lina,9,15,24,12.57%,7.85%,26.67%,Intelligence
-9.95%,The International 2017,Lion,1,0,1,0.52%,0.00%,0.00%,Intelligence
-12.57%,The International 2017,Lone Druid,16,10,26,13.61%,5.24%,30.00%,Agility
-13.09%,The International 2017,Luna,3,7,10,5.24%,3.66%,42.86%,Agility
-7.33%,The International 2017,Lycan,43,43,86,45.03%,22.51%,58.14%,Strength
-1.05%,The International 2017,Magnus,8,15,23,12.04%,7.85%,66.67%,Strength
-7.85%,The International 2017,Medusa,14,10,24,12.57%,5.24%,80.00%,Agility
-6.28%,The International 2017,Meepo,10,1,11,5.76%,0.52%,0.00%,Agility
-8.38%,The International 2017,Mirana,2,25,27,14.14%,13.09%,56.00%,Agility
-5.24%,The International 2017,Monkey King,3,12,15,7.85%,6.28%,33.33%,Agility
-5.76%,The International 2017,Morphling,7,12,19,9.95%,6.28%,58.33%,Agility
-4.71%,The International 2017,Naga Siren,10,16,26,13.61%,8.38%,62.50%,Agility
-2.09%,The International 2017,Natures Prophet,37,30,67,35.08%,15.71%,60.00%,Intelligence
-7.33%,The International 2017,Necrophos,18,31,49,25.65%,16.23%,61.29%,Intelligence
-4.19%,The International 2017,Night Stalker,107,51,158,82.72%,26.70%,49.02%,Strength
-5.24%,The International 2017,Nyx Assassin,104,45,149,78.01%,23.56%,71.11%,Agility
-2.62%,The International 2017,Ogre Magi,6,5,11,5.76%,2.62%,100.00%,Intelligence
-1.05%,The International 2017,Omniknight,4,4,8,4.19%,2.09%,50.00%,Strength
-5.76%,The International 2017,Oracle,6,28,34,17.80%,14.66%,50.00%,Intelligence
-8.90%,The International 2017,Outworld Devourer,8,6,14,7.33%,3.14%,16.67%,Intelligence
-3.66%,The International 2017,Phantom Assassin,4,7,11,5.76%,3.66%,57.14%,Agility
-2.62%,The International 2017,Phantom Lancer,38,27,65,34.03%,14.14%,51.85%,Agility
-1.05%,The International 2017,Phoenix,0,4,4,2.09%,2.09%,75.00%,Strength
-0.00%,The International 2017,Puck,78,61,139,72.77%,31.94%,47.54%,Intelligence
+45.55%,The International 2017,Batrider,87,62,149,78.01%,32.46%,46.77%,Intelligence
+2.62%,The International 2017,Beastmaster,5,7,12,6.28%,3.66%,71.43%,Strength
+14.14%,The International 2017,Bloodseeker,27,17,44,23.04%,8.90%,41.18%,Agility
+2.62%,The International 2017,Bounty Hunter,5,8,13,6.81%,4.19%,50.00%,Agility
+2.62%,The International 2017,Brewmaster,5,7,12,6.28%,3.66%,57.14%,Strength
+7.33%,The International 2017,Bristleback,14,18,32,16.75%,9.42%,55.56%,Strength
+13.09%,The International 2017,Broodmother,25,6,31,16.23%,3.14%,66.67%,Agility
+1.05%,The International 2017,Centaur Warrunner,2,8,10,5.24%,4.19%,50.00%,Strength
+5.24%,The International 2017,Chaos Knight,10,12,22,11.52%,6.28%,33.33%,Strength
+1.05%,The International 2017,Chen,2,2,4,2.09%,1.05%,50.00%,Intelligence
+0.52%,The International 2017,Clinkz,1,4,5,2.62%,2.09%,50.00%,Agility
+7.85%,The International 2017,Clockwerk,15,33,48,25.13%,17.28%,21.21%,Strength
+0.00%,The International 2017,Crystal Maiden,0,11,11,5.76%,5.76%,45.45%,Intelligence
+17.28%,The International 2017,Dark Seer,33,28,61,31.94%,14.66%,46.43%,Intelligence
+2.62%,The International 2017,Dazzle,5,27,32,16.75%,14.14%,81.48%,Intelligence
+27.23%,The International 2017,Death Prophet,52,29,81,42.41%,15.18%,51.72%,Intelligence
+4.19%,The International 2017,Disruptor,8,25,33,17.28%,13.09%,60.00%,Intelligence
+1.05%,The International 2017,Doom,2,14,16,8.38%,7.33%,57.14%,Strength
+10.47%,The International 2017,Dragon Knight,20,20,40,20.94%,10.47%,40.00%,Strength
+20.42%,The International 2017,Drow Ranger,39,16,55,28.80%,8.38%,43.75%,Agility
+16.23%,The International 2017,Earth Spirit,31,40,71,37.17%,20.94%,57.50%,Strength
+20.42%,The International 2017,Earthshaker,39,70,109,57.07%,36.65%,60.00%,Strength
+1.57%,The International 2017,Elder Titan,3,6,9,4.71%,3.14%,50.00%,Strength
+8.90%,The International 2017,Ember Spirit,17,25,42,21.99%,13.09%,52.00%,Agility
+3.14%,The International 2017,Enchantress,6,7,13,6.81%,3.66%,57.14%,Intelligence
+13.09%,The International 2017,Enigma,25,15,40,20.94%,7.85%,33.33%,Intelligence
+21.99%,The International 2017,Faceless Void,42,46,88,46.07%,24.08%,39.13%,Agility
+2.09%,The International 2017,Gyrocopter,4,3,7,3.66%,1.57%,33.33%,Agility
+8.90%,The International 2017,Huskar,17,3,20,10.47%,1.57%,100.00%,Strength
+11.52%,The International 2017,Invoker,22,21,43,22.51%,10.99%,47.62%,Intelligence
+36.13%,The International 2017,Io,69,15,84,43.98%,7.85%,46.67%,Strength
+0.52%,The International 2017,Jakiro,1,5,6,3.14%,2.62%,20.00%,Intelligence
+2.62%,The International 2017,Juggernaut,5,12,17,8.90%,6.28%,41.67%,Agility
+12.04%,The International 2017,Keeper of the Light,23,17,40,20.94%,8.90%,47.06%,Intelligence
+15.71%,The International 2017,Kunkka,30,32,62,32.46%,16.75%,56.25%,Strength
+10.99%,The International 2017,Legion Commander,21,30,51,26.70%,15.71%,43.33%,Strength
+0.52%,The International 2017,Leshrac,1,5,6,3.14%,2.62%,80.00%,Intelligence
+31.41%,The International 2017,Lich,60,44,104,54.45%,23.04%,50.00%,Intelligence
+6.28%,The International 2017,Lifestealer,12,14,26,13.61%,7.33%,50.00%,Strength
+4.71%,The International 2017,Lina,9,15,24,12.57%,7.85%,26.67%,Intelligence
+0.52%,The International 2017,Lion,1,0,1,0.52%,0.00%,0.00%,Intelligence
+8.38%,The International 2017,Lone Druid,16,10,26,13.61%,5.24%,30.00%,Agility
+1.57%,The International 2017,Luna,3,7,10,5.24%,3.66%,42.86%,Agility
+22.51%,The International 2017,Lycan,43,43,86,45.03%,22.51%,58.14%,Strength
+4.19%,The International 2017,Magnus,8,15,23,12.04%,7.85%,66.67%,Strength
+7.33%,The International 2017,Medusa,14,10,24,12.57%,5.24%,80.00%,Agility
+5.24%,The International 2017,Meepo,10,1,11,5.76%,0.52%,0.00%,Agility
+1.05%,The International 2017,Mirana,2,25,27,14.14%,13.09%,56.00%,Agility
+1.57%,The International 2017,Monkey King,3,12,15,7.85%,6.28%,33.33%,Agility
+3.66%,The International 2017,Morphling,7,12,19,9.95%,6.28%,58.33%,Agility
+5.24%,The International 2017,Naga Siren,10,16,26,13.61%,8.38%,62.50%,Agility
+19.37%,The International 2017,Natures Prophet,37,30,67,35.08%,15.71%,60.00%,Intelligence
+9.42%,The International 2017,Necrophos,18,31,49,25.65%,16.23%,61.29%,Intelligence
+56.02%,The International 2017,Night Stalker,107,51,158,82.72%,26.70%,49.02%,Strength
+54.45%,The International 2017,Nyx Assassin,104,45,149,78.01%,23.56%,71.11%,Agility
+3.14%,The International 2017,Ogre Magi,6,5,11,5.76%,2.62%,100.00%,Intelligence
+2.09%,The International 2017,Omniknight,4,4,8,4.19%,2.09%,50.00%,Strength
+3.14%,The International 2017,Oracle,6,28,34,17.80%,14.66%,50.00%,Intelligence
+4.19%,The International 2017,Outworld Devourer,8,6,14,7.33%,3.14%,16.67%,Intelligence
+2.09%,The International 2017,Phantom Assassin,4,7,11,5.76%,3.66%,57.14%,Agility
+19.90%,The International 2017,Phantom Lancer,38,27,65,34.03%,14.14%,51.85%,Agility
+0.00%,The International 2017,Phoenix,0,4,4,2.09%,2.09%,75.00%,Strength
+40.84%,The International 2017,Puck,78,61,139,72.77%,31.94%,47.54%,Intelligence
 0.00%,The International 2017,Pudge,0,1,1,0.52%,0.52%,0.00%,Strength
-1.57%,The International 2017,Pugna,26,16,42,21.99%,8.38%,43.75%,Intelligence
-4.19%,The International 2017,Queen of Pain,40,40,80,41.88%,20.94%,45.00%,Intelligence
-3.66%,The International 2017,Razor,15,11,26,13.61%,5.76%,36.36%,Agility
-3.14%,The International 2017,Riki,1,4,5,2.62%,2.09%,25.00%,Agility
-2.62%,The International 2017,Rubick,10,28,38,19.90%,14.66%,42.86%,Intelligence
-2.09%,The International 2017,Sand King,25,69,94,49.21%,36.13%,34.78%,Strength
-2.62%,The International 2017,Shadow Demon,1,8,9,4.71%,4.19%,62.50%,Intelligence
-2.62%,The International 2017,Shadow Fiend,4,7,11,5.76%,3.66%,28.57%,Agility
-0.00%,The International 2017,Shadow Shaman,6,36,42,21.99%,18.85%,52.78%,Intelligence
-2.09%,The International 2017,Silencer,43,32,75,39.27%,16.75%,31.25%,Intelligence
-2.09%,The International 2017,Skywrath Mage,0,1,1,0.52%,0.52%,0.00%,Intelligence
-5.24%,The International 2017,Slardar,0,15,15,7.85%,7.85%,46.67%,Strength
-3.14%,The International 2017,Slark,3,2,5,2.62%,1.05%,50.00%,Agility
-1.57%,The International 2017,Sniper,7,6,13,6.81%,3.14%,83.33%,Agility
+13.61%,The International 2017,Pugna,26,16,42,21.99%,8.38%,43.75%,Intelligence
+20.94%,The International 2017,Queen of Pain,40,40,80,41.88%,20.94%,45.00%,Intelligence
+7.85%,The International 2017,Razor,15,11,26,13.61%,5.76%,36.36%,Agility
+0.52%,The International 2017,Riki,1,4,5,2.62%,2.09%,25.00%,Agility
+5.24%,The International 2017,Rubick,10,28,38,19.90%,14.66%,42.86%,Intelligence
+13.09%,The International 2017,Sand King,25,69,94,49.21%,36.13%,34.78%,Strength
+0.52%,The International 2017,Shadow Demon,1,8,9,4.71%,4.19%,62.50%,Intelligence
+2.09%,The International 2017,Shadow Fiend,4,7,11,5.76%,3.66%,28.57%,Agility
+3.14%,The International 2017,Shadow Shaman,6,36,42,21.99%,18.85%,52.78%,Intelligence
+22.51%,The International 2017,Silencer,43,32,75,39.27%,16.75%,31.25%,Intelligence
+0.00%,The International 2017,Skywrath Mage,0,1,1,0.52%,0.52%,0.00%,Intelligence
+0.00%,The International 2017,Slardar,0,15,15,7.85%,7.85%,46.67%,Strength
+1.57%,The International 2017,Slark,3,2,5,2.62%,1.05%,50.00%,Agility
+3.66%,The International 2017,Sniper,7,6,13,6.81%,3.14%,83.33%,Agility
 0.00%,The International 2017,Spectre,0,0,0,0.00%,0.00%,0.00%,Agility
-1.05%,The International 2017,Spirit Breaker,0,15,15,7.85%,7.85%,53.33%,Strength
-3.66%,The International 2017,Storm Spirit,22,11,33,17.28%,5.76%,72.73%,Intelligence
-0.52%,The International 2017,Sven,64,39,103,53.93%,20.42%,64.10%,Strength
+0.00%,The International 2017,Spirit Breaker,0,15,15,7.85%,7.85%,53.33%,Strength
+11.52%,The International 2017,Storm Spirit,22,11,33,17.28%,5.76%,72.73%,Intelligence
+33.51%,The International 2017,Sven,64,39,103,53.93%,20.42%,64.10%,Strength
 ,The International 2017,Techies,,,,,,,Intelligence
-1.57%,The International 2017,Templar Assassin,19,12,31,16.23%,6.28%,50.00%,Agility
-2.09%,The International 2017,Terrorblade,20,14,34,17.80%,7.33%,50.00%,Agility
-1.57%,The International 2017,Tidehunter,14,16,30,15.71%,8.38%,50.00%,Strength
-2.09%,The International 2017,Timbersaw,11,14,25,13.09%,7.33%,35.71%,Strength
-0.52%,The International 2017,Tinker,11,9,20,10.47%,4.71%,22.22%,Intelligence
+9.95%,The International 2017,Templar Assassin,19,12,31,16.23%,6.28%,50.00%,Agility
+10.47%,The International 2017,Terrorblade,20,14,34,17.80%,7.33%,50.00%,Agility
+7.33%,The International 2017,Tidehunter,14,16,30,15.71%,8.38%,50.00%,Strength
+5.76%,The International 2017,Timbersaw,11,14,25,13.09%,7.33%,35.71%,Strength
+5.76%,The International 2017,Tinker,11,9,20,10.47%,4.71%,22.22%,Intelligence
 0.00%,The International 2017,Tiny,0,0,0,0.00%,0.00%,0.00%,Strength
 0.52%,The International 2017,Treant Protector,1,2,3,1.57%,1.05%,0.00%,Strength
-0.52%,The International 2017,Troll Warlord,15,23,38,19.90%,12.04%,47.83%,Agility
-0.52%,The International 2017,Tusk,2,19,21,10.99%,9.95%,42.11%,Strength
-0.52%,The International 2017,Underlord,0,3,3,1.57%,1.57%,33.33%,Strength
-1.57%,The International 2017,Undying,0,1,1,0.52%,0.52%,0.00%,Strength
-1.05%,The International 2017,Ursa,17,18,35,18.32%,9.42%,61.11%,Agility
+7.85%,The International 2017,Troll Warlord,15,23,38,19.90%,12.04%,47.83%,Agility
+1.05%,The International 2017,Tusk,2,19,21,10.99%,9.95%,42.11%,Strength
+0.00%,The International 2017,Underlord,0,3,3,1.57%,1.57%,33.33%,Strength
+0.00%,The International 2017,Undying,0,1,1,0.52%,0.52%,0.00%,Strength
+8.90%,The International 2017,Ursa,17,18,35,18.32%,9.42%,61.11%,Agility
 0.00%,The International 2017,Vengeful Spirit,0,3,3,1.57%,1.57%,33.33%,Agility
-0.00%,The International 2017,Venomancer,34,28,62,32.46%,14.66%,60.71%,Agility
-0.52%,The International 2017,Viper,24,7,31,16.23%,3.66%,42.86%,Agility
-0.00%,The International 2017,Visage,5,17,22,11.52%,8.90%,23.53%,Intelligence
-0.00%,The International 2017,Warlock,1,5,6,3.14%,2.62%,40.00%,Intelligence
-0.00%,The International 2017,Weaver,29,27,56,29.32%,14.14%,48.15%,Agility
+17.80%,The International 2017,Venomancer,34,28,62,32.46%,14.66%,60.71%,Agility
+12.57%,The International 2017,Viper,24,7,31,16.23%,3.66%,42.86%,Agility
+2.62%,The International 2017,Visage,5,17,22,11.52%,8.90%,23.53%,Intelligence
+0.52%,The International 2017,Warlock,1,5,6,3.14%,2.62%,40.00%,Intelligence
+15.18%,The International 2017,Weaver,29,27,56,29.32%,14.14%,48.15%,Agility
 0.00%,The International 2017,Windranger,0,2,2,1.05%,1.05%,0.00%,Intelligence
-0.52%,The International 2017,Winter Wyvern,13,20,33,17.28%,10.47%,55.00%,Intelligence
-0.00%,The International 2017,Witch Doctor,4,20,24,12.57%,10.47%,40.00%,Intelligence
+6.81%,The International 2017,Winter Wyvern,13,20,33,17.28%,10.47%,55.00%,Intelligence
+2.09%,The International 2017,Witch Doctor,4,20,24,12.57%,10.47%,40.00%,Intelligence
 0.00%,The International 2017,Wraith King,0,0,0,0.00%,0.00%,0.00%,Strength
-0.00%,The International 2017,Zeus,3,4,7,3.66%,2.09%,50.00%,Intelligence
+1.57%,The International 2017,Zeus,3,4,7,3.66%,2.09%,50.00%,Intelligence
